@@ -1,0 +1,519 @@
+Survey year,Unitid,Institution name,OPEID,Campus ID, Campus Name,Institution Size,Illegal weapons possession,Drug law violations,Liquor law violations,Category
+2001,235316,Gonzaga University,377800,1,Main Campus,4874,0,0,1,On-campus arrests
+2001,236595,Seattle University,379000,1,Main Campus,5981,0,0,0,On-campus arrests
+2001,236948,University of Washington-Seattle Campus,379800,1,Main Campus,37412,5,149,65,On-campus arrests
+2001,236939,Washington State University,380000,1,Pullman Campus,21073,0,45,167,On-campus arrests
+2001,237011,Western Washington University,380200,1,Bellingham Campus,12409,0,18,126,On-campus arrests
+2001,237057,Whitman College,380300,1,Whitman College,1439,0,0,0,On-campus arrests
+2002,235316,Gonzaga University,377800,1,Main Campus,5254,0,1,0,On-campus arrests
+2002,236595,Seattle University,379000,1,Main Campus,6270,0,0,0,On-campus arrests
+2002,236948,University of Washington-Seattle Campus,379800,1,Main Campus,39882,4,69,90,On-campus arrests
+2002,236939,Washington State University,380000,1,Pullman Campus,21880,1,65,123,On-campus arrests
+2002,237011,Western Washington University,380200,1,Bellingham Campus,13865,2,31,88,On-campus arrests
+2002,237057,Whitman College,380300,1,Whitman College,1454,0,4,0,On-campus arrests
+2003,235316,Gonzaga University,377800,1,Main Campus,5494,0,0,2,On-campus arrests
+2003,236595,Seattle University,379000,1,Main Campus,6659,0,0,0,On-campus arrests
+2003,236948,University of Washington-Seattle Campus,379800,1,Main Campus,39135,1,13,17,On-campus arrests
+2003,236939,Washington State University,380000,1,Pullman Campus,22712,1,53,88,On-campus arrests
+2003,237011,Western Washington University,380200,1,Bellingham Campus,13845,0,18,37,On-campus arrests
+2003,237057,Whitman College,380300,1,Whitman College,1454,0,1,0,On-campus arrests
+2004,235316,Gonzaga University,377800,1,Main Campus,5858,0,1,2,On-campus arrests
+2004,236595,Seattle University,379000,1,Main Campus,6810,0,0,0,On-campus arrests
+2004,236948,University of Washington-Seattle Campus,379800,1,Main Campus,39199,2,5,24,On-campus arrests
+2004,236939,Washington State University,380000,1,Pullman Campus,23241,9,40,56,On-campus arrests
+2004,237011,Western Washington University,380200,1,Bellingham Campus,14190,0,34,115,On-campus arrests
+2004,237057,Whitman College,380300,1,Whitman College,1481,0,0,0,On-campus arrests
+2005,235316,Gonzaga University,377800,1,Main Campus,6377,0,0,1,On-campus arrests
+2005,236595,Seattle University,379000,1,Main Campus,7109,0,0,0,On-campus arrests
+2005,236948,University of Washington-Seattle Campus,379800,1,Main Campus,39251,0,9,30,On-campus arrests
+2005,236939,Washington State University,380000,1,Pullman Campus,23544,1,55,186,On-campus arrests
+2005,237011,Western Washington University,380200,1,Bellingham Campus,14247,0,40,121,On-campus arrests
+2005,237057,Whitman College,380300,1,Whitman College,1512,0,1,1,On-campus arrests
+2006,235316,Gonzaga University,377800,1,Main Campus,6607,0,2,6,On-campus arrests
+2006,236595,Seattle University,379000,1,Main Campus,7226,0,0,0,On-campus arrests
+2006,236948,University of Washington-Seattle Campus,379800,1,Main Campus,39524,0,26,34,On-campus arrests
+2006,236939,Washington State University,380000,1,Pullman Campus,23655,0,124,217,On-campus arrests
+2006,237011,Western Washington University,380200,1,Bellingham Campus,14035,0,3,66,On-campus arrests
+2006,237057,Whitman College,380300,1,Whitman College,1455,0,1,1,On-campus arrests
+2007,235316,Gonzaga University,377800,1,Main Campus,6873,0,1,5,On-campus arrests
+2007,236595,Seattle University,379000,1,Main Campus,7529,0,0,0,On-campus arrests
+2007,236948,University of Washington-Seattle Campus,379800,1,Main Campus,40218,0,34,33,On-campus arrests
+2007,236939,Washington State University,380000,1,Pullman Campus,24396,2,109,174,On-campus arrests
+2007,237011,Western Washington University,380200,1,Bellingham Campus,14276,1,29,80,On-campus arrests
+2007,237057,Whitman College,380300,1,Whitman College,1489,0,1,0,On-campus arrests
+2008,235316,Gonzaga University,377800,1,Main Campus,7272,2,0,0,On-campus arrests
+2008,236595,Seattle University,379000,1,Main Campus,7560,0,0,0,On-campus arrests
+2008,236948,University of Washington-Seattle Campus,379800,1,Main Campus,39675,2,47,55,On-campus arrests
+2008,236939,Washington State University,380000,1,Pullman Campus,25352,1,121,175,On-campus arrests
+2008,237011,Western Washington University,380200,1,Bellingham Campus,14620,1,17,49,On-campus arrests
+2008,237057,Whitman College,380300,1,Whitman College,1458,0,0,0,On-campus arrests
+2009,235316,Gonzaga University,377800,1,Main Campus,7633,0,1,0,On-campus arrests
+2009,236595,Seattle University,379000,1,Main Campus,7751,0,0,0,On-campus arrests
+2009,236948,University of Washington-Seattle Campus,379800,1,Main Campus,45943,5,48,24,On-campus arrests
+2009,236939,Washington State University,380000,1,Pullman Campus,26101,1,122,188,On-campus arrests
+2009,237011,Western Washington University,380200,1,Bellingham Campus,14575,1,14,27,On-campus arrests
+2009,237057,Whitman College,380300,1,Whitman College,1515,0,0,0,On-campus arrests
+2010,235316,Gonzaga University,377800,1,Main Campus,7738,1,2,1,On-campus arrests
+2010,236595,Seattle University,379000,1,Main Campus,7817,0,0,0,On-campus arrests
+2010,236948,University of Washington-Seattle Campus,379800,1,Main Campus,42451,1,9,31,On-campus arrests
+2010,236939,Washington State University,380000,1,Pullman Campus,26308,1,128,216,On-campus arrests
+2010,237011,Western Washington University,380200,1,Bellingham Campus,14979,0,12,44,On-campus arrests
+2010,237057,Whitman College,380300,1,Whitman College,1555,0,0,0,On-campus arrests
+2011,235316,Gonzaga University,377800,1,Main Campus,7764,1,1,0,On-campus arrests
+2011,236595,Seattle University,379000,1,Main Campus,7755,0,0,0,On-campus arrests
+2011,236948,University of Washington-Seattle Campus,379800,1,Main Campus,42444,1,11,14,On-campus arrests
+2011,236939,Washington State University,380000,1,Pullman Campus,27329,3,179,196,On-campus arrests
+2011,237011,Western Washington University,380200,1,Bellingham Campus,14842,2,38,56,On-campus arrests
+2011,237057,Whitman College,380300,1,Whitman College,1596,0,0,0,On-campus arrests
+2012,235316,Gonzaga University,377800,1,Main Campus,7781,0,1,1,On-campus arrests
+2012,236595,Seattle University,379000,1,Main Campus,7484,1,1,0,On-campus arrests
+2012,236948,University of Washington-Seattle Campus,379800,1,Main Campus,43485,0,10,13,On-campus arrests
+2012,236939,Washington State University,380000,1,Pullman Campus,27679,4,199,168,On-campus arrests
+2012,237011,Western Washington University,380200,1,Bellingham Campus,14833,0,8,15,On-campus arrests
+2012,237057,Whitman College,380300,1,Whitman College,1539,0,0,1,On-campus arrests
+2013,235316,Gonzaga University,377800,1,Main Campus,7605,1,0,0,On-campus arrests
+2013,236595,Seattle University,379000,1,Main Campus,7422,0,0,0,On-campus arrests
+2013,236948,University of Washington-Seattle Campus,379800,1,Main Campus,43762,2,4,13,On-campus arrests
+2013,236939,Washington State University,380000,1,Pullman Campus,27642,1,85,193,On-campus arrests
+2013,237011,Western Washington University,380200,1,Bellingham Campus,14950,0,1,9,On-campus arrests
+2013,237057,Whitman College,380300,1,Whitman College,1541,0,0,0,On-campus arrests
+2014,235316,Gonzaga University,377800,1,Main Campus,7352,0,0,0,On-campus arrests
+2014,236595,Seattle University,379000,1,Main Campus,7273,0,0,0,On-campus arrests
+2014,236948,University of Washington-Seattle Campus,379800,1,Main Campus,44784,0,16,5,On-campus arrests
+2014,236939,Washington State University,380000,1,Pullman Campus,28686,1,40,147,On-campus arrests
+2014,237011,Western Washington University,380200,1,Bellingham Campus,15060,1,14,13,On-campus arrests
+2014,237057,Whitman College,380300,1,Whitman College,1498,0,0,0,On-campus arrests
+2015,235316,Gonzaga University,377800,1,Main Campus,7491,0,0,10,On-campus arrests
+2015,236595,Seattle University,379000,1,Main Campus,7405,0,0,0,On-campus arrests
+2015,236948,University of Washington-Seattle Campus,379800,1,Main Campus,45408,1,5,5,On-campus arrests
+2015,236939,Washington State University,380000,1,Pullman Campus,29686,3,67,132,On-campus arrests
+2015,237011,Western Washington University,380200,1,Bellingham Campus,15332,0,1,0,On-campus arrests
+2015,237057,Whitman College,380300,1,Whitman College,1470,0,0,0,On-campus arrests
+2016,235316,Gonzaga University,377800,1,Main Campus,7567,0,0,9,On-campus arrests
+2016,236595,Seattle University,379000,1,Main Campus,7487,0,0,0,On-campus arrests
+2016,236595,Seattle University,379000,2,Eastside Campus,7487,0,0,0,On-campus arrests
+2016,236948,University of Washington-Seattle Campus,379800,1,Main Campus,45591,2,5,5,On-campus arrests
+2016,236939,Washington State University,380000,1,Pullman Campus,30142,0,49,82,On-campus arrests
+2016,237011,Western Washington University,380200,1,Bellingham Campus,15574,0,5,1,On-campus arrests
+2016,237057,Whitman College,380300,1,Whitman College,1493,0,0,0,On-campus arrests
+2017,235316,Gonzaga University,377800,1,Main Campus,7506,0,0,2,On-campus arrests
+2017,236595,Seattle University,379000,1,Main Campus,7278,0,0,0,On-campus arrests
+2017,236595,Seattle University,379000,2,Eastside Campus,7278,0,0,0,On-campus arrests
+2017,236948,University of Washington-Seattle Campus,379800,1,Main Campus,46166,4,10,1,On-campus arrests
+2017,236939,Washington State University,380000,1,Pullman Campus,30614,0,37,75,On-campus arrests
+2017,237011,Western Washington University,380200,1,Bellingham Campus,15915,0,11,15,On-campus arrests
+2017,237057,Whitman College,380300,1,Whitman College,1510,0,0,1,On-campus arrests
+2018,235316,Gonzaga University,377800,1,Main Campus,7563,0,3,1,On-campus arrests
+2018,236595,Seattle University,379000,1,Main Campus,7291,0,0,0,On-campus arrests
+2018,236948,University of Washington-Seattle Campus,379800,1,Main Campus,47400,1,8,1,On-campus arrests
+2018,236939,Washington State University,380000,1,Pullman Campus,31478,1,26,63,On-campus arrests
+2018,237011,Western Washington University,380200,1,Bellingham Campus,16121,0,2,6,On-campus arrests
+2018,237057,Whitman College,380300,1,Whitman College,1475,0,0,0,On-campus arrests
+2019,235316,Gonzaga University,377800,1,Main Campus,7537,0,1,0,On-campus arrests
+2019,236595,Seattle University,379000,1,Main Campus,7199,0,1,0,On-campus arrests
+2019,236948,University of Washington-Seattle Campus,379800,1,Main Campus,47576,5,7,32,On-campus arrests
+2019,236939,Washington State University,380000,1,Pullman Campus,31607,0,32,67,On-campus arrests
+2019,237011,Western Washington University,380200,1,Bellingham Campus,16142,0,2,6,On-campus arrests
+2019,237057,Whitman College,380300,1,Whitman College,1579,0,0,0,On-campus arrests
+2020,235316,Gonzaga University,377800,1,Main Campus,7295,0,1,0,On-campus arrests
+2020,236595,Seattle University,379000,1,Main Campus,7050,1,0,0,On-campus arrests
+2020,236948,University of Washington-Seattle Campus,379800,1,Main Campus,48149,0,1,0,On-campus arrests
+2020,236939,Washington State University,380000,1,Pullman Campus,31159,1,14,18,On-campus arrests
+2020,237011,Western Washington University,380200,1,Bellingham Campus,15197,0,0,2,On-campus arrests
+2020,237057,Whitman College,380300,1,Whitman College,1360,0,0,0,On-campus arrests
+2021,235316,Gonzaga University,377800,1,Main Campus,7381,0,0,0,On-campus arrests
+2021,236595,Seattle University,379000,1,Main Campus,7268,0,0,0,On-campus arrests
+2021,236948,University of Washington-Seattle Campus,379800,1,Main Campus,52434,1,2,0,On-campus arrests
+2021,236939,Washington State University,380000,1,Pullman Campus,29843,2,2,19,On-campus arrests
+2021,237011,Western Washington University,380200,1,Bellingham Campus,15125,0,1,0,On-campus arrests
+2021,237057,Whitman College,380300,1,Whitman College,1559,0,0,0,On-campus arrests
+2022,235316,Gonzaga University,377800,1,Main Campus,7253,0,0,0,On-campus arrests
+2022,236595,Seattle University,379000,1,Main Campus,7121,0,0,0,On-campus arrests
+2022,236948,University of Washington-Seattle Campus,379800,1,Main Campus,52319,0,1,0,On-campus arrests
+2022,236939,Washington State University,380000,1,Pullman Campus,27539,0,0,9,On-campus arrests
+2022,237011,Western Washington University,380200,1,Bellingham Campus,14747,0,0,0,On-campus arrests
+2022,237057,Whitman College,380300,1,Whitman College,1493,0,0,0,On-campus arrests
+2001,235316,Gonzaga University,377800,1,Main Campus,4874,0,0,0,On-campus housing arrests
+2001,236595,Seattle University,379000,1,Main Campus,5981,0,0,0,On-campus housing arrests
+2001,236948,University of Washington-Seattle Campus,379800,1,Main Campus,37412,0,24,30,On-campus housing arrests
+2001,236939,Washington State University,380000,1,Pullman Campus,21073,0,32,23,On-campus housing arrests
+2001,237011,Western Washington University,380200,1,Bellingham Campus,12409,0,17,95,On-campus housing arrests
+2001,237057,Whitman College,380300,1,Whitman College,1439,0,0,0,On-campus housing arrests
+2002,235316,Gonzaga University,377800,1,Main Campus,5254,0,1,0,On-campus housing arrests
+2002,236595,Seattle University,379000,1,Main Campus,6270,0,0,0,On-campus housing arrests
+2002,236948,University of Washington-Seattle Campus,379800,1,Main Campus,39882,1,11,33,On-campus housing arrests
+2002,236939,Washington State University,380000,1,Pullman Campus,21880,0,44,36,On-campus housing arrests
+2002,237011,Western Washington University,380200,1,Bellingham Campus,13865,0,27,64,On-campus housing arrests
+2002,237057,Whitman College,380300,1,Whitman College,1454,0,0,0,On-campus housing arrests
+2003,235316,Gonzaga University,377800,1,Main Campus,5494,0,0,1,On-campus housing arrests
+2003,236595,Seattle University,379000,1,Main Campus,6659,0,0,0,On-campus housing arrests
+2003,236948,University of Washington-Seattle Campus,379800,1,Main Campus,39135,0,7,11,On-campus housing arrests
+2003,236939,Washington State University,380000,1,Pullman Campus,22712,1,39,15,On-campus housing arrests
+2003,237011,Western Washington University,380200,1,Bellingham Campus,13845,0,10,24,On-campus housing arrests
+2003,237057,Whitman College,380300,1,Whitman College,1454,0,0,0,On-campus housing arrests
+2004,235316,Gonzaga University,377800,1,Main Campus,5858,0,0,2,On-campus housing arrests
+2004,236595,Seattle University,379000,1,Main Campus,6810,0,0,0,On-campus housing arrests
+2004,236948,University of Washington-Seattle Campus,379800,1,Main Campus,39199,0,4,19,On-campus housing arrests
+2004,236939,Washington State University,380000,1,Pullman Campus,23241,4,30,33,On-campus housing arrests
+2004,237011,Western Washington University,380200,1,Bellingham Campus,14190,0,11,24,On-campus housing arrests
+2004,237057,Whitman College,380300,1,Whitman College,1481,0,0,0,On-campus housing arrests
+2005,235316,Gonzaga University,377800,1,Main Campus,6377,0,0,1,On-campus housing arrests
+2005,236595,Seattle University,379000,1,Main Campus,7109,0,0,0,On-campus housing arrests
+2005,236948,University of Washington-Seattle Campus,379800,1,Main Campus,39251,0,2,10,On-campus housing arrests
+2005,236939,Washington State University,380000,1,Pullman Campus,23544,1,31,33,On-campus housing arrests
+2005,237011,Western Washington University,380200,1,Bellingham Campus,14247,0,8,46,On-campus housing arrests
+2005,237057,Whitman College,380300,1,Whitman College,1512,0,0,0,On-campus housing arrests
+2006,235316,Gonzaga University,377800,1,Main Campus,6607,0,1,0,On-campus housing arrests
+2006,236595,Seattle University,379000,1,Main Campus,7226,0,0,0,On-campus housing arrests
+2006,236948,University of Washington-Seattle Campus,379800,1,Main Campus,39524,0,13,19,On-campus housing arrests
+2006,236939,Washington State University,380000,1,Pullman Campus,23655,0,79,56,On-campus housing arrests
+2006,237011,Western Washington University,380200,1,Bellingham Campus,14035,0,2,42,On-campus housing arrests
+2006,237057,Whitman College,380300,1,Whitman College,1455,0,0,0,On-campus housing arrests
+2007,235316,Gonzaga University,377800,1,Main Campus,6873,0,1,5,On-campus housing arrests
+2007,236595,Seattle University,379000,1,Main Campus,7529,0,0,0,On-campus housing arrests
+2007,236948,University of Washington-Seattle Campus,379800,1,Main Campus,40218,0,19,14,On-campus housing arrests
+2007,236939,Washington State University,380000,1,Pullman Campus,24396,2,37,29,On-campus housing arrests
+2007,237011,Western Washington University,380200,1,Bellingham Campus,14276,1,10,42,On-campus housing arrests
+2007,237057,Whitman College,380300,1,Whitman College,1489,0,1,0,On-campus housing arrests
+2008,235316,Gonzaga University,377800,1,Main Campus,7272,0,0,0,On-campus housing arrests
+2008,236595,Seattle University,379000,1,Main Campus,7560,0,0,0,On-campus housing arrests
+2008,236948,University of Washington-Seattle Campus,379800,1,Main Campus,39675,0,23,8,On-campus housing arrests
+2008,236939,Washington State University,380000,1,Pullman Campus,25352,0,58,17,On-campus housing arrests
+2008,237011,Western Washington University,380200,1,Bellingham Campus,14620,1,3,20,On-campus housing arrests
+2008,237057,Whitman College,380300,1,Whitman College,1458,0,0,0,On-campus housing arrests
+2009,235316,Gonzaga University,377800,1,Main Campus,7633,0,1,0,On-campus housing arrests
+2009,236595,Seattle University,379000,1,Main Campus,7751,0,0,0,On-campus housing arrests
+2009,236948,University of Washington-Seattle Campus,379800,1,Main Campus,45943,2,20,8,On-campus housing arrests
+2009,236939,Washington State University,380000,1,Pullman Campus,26101,0,61,14,On-campus housing arrests
+2009,237011,Western Washington University,380200,1,Bellingham Campus,14575,1,5,6,On-campus housing arrests
+2009,237057,Whitman College,380300,1,Whitman College,1515,0,0,0,On-campus housing arrests
+2010,235316,Gonzaga University,377800,1,Main Campus,7738,1,0,0,On-campus housing arrests
+2010,236595,Seattle University,379000,1,Main Campus,7817,0,0,0,On-campus housing arrests
+2010,236948,University of Washington-Seattle Campus,379800,1,Main Campus,42451,0,2,10,On-campus housing arrests
+2010,236939,Washington State University,380000,1,Pullman Campus,26308,0,68,5,On-campus housing arrests
+2010,237011,Western Washington University,380200,1,Bellingham Campus,14979,0,5,11,On-campus housing arrests
+2010,237057,Whitman College,380300,1,Whitman College,1555,0,0,0,On-campus housing arrests
+2011,235316,Gonzaga University,377800,1,Main Campus,7764,0,0,0,On-campus housing arrests
+2011,236595,Seattle University,379000,1,Main Campus,7755,0,0,0,On-campus housing arrests
+2011,236948,University of Washington-Seattle Campus,379800,1,Main Campus,42444,0,6,4,On-campus housing arrests
+2011,236939,Washington State University,380000,1,Pullman Campus,27329,0,92,8,On-campus housing arrests
+2011,237011,Western Washington University,380200,1,Bellingham Campus,14842,0,0,16,On-campus housing arrests
+2011,237057,Whitman College,380300,1,Whitman College,1596,0,0,0,On-campus housing arrests
+2012,235316,Gonzaga University,377800,1,Main Campus,7781,0,0,0,On-campus housing arrests
+2012,236595,Seattle University,379000,1,Main Campus,7484,0,1,0,On-campus housing arrests
+2012,236948,University of Washington-Seattle Campus,379800,1,Main Campus,43485,0,6,7,On-campus housing arrests
+2012,236939,Washington State University,380000,1,Pullman Campus,27679,1,49,8,On-campus housing arrests
+2012,237011,Western Washington University,380200,1,Bellingham Campus,14833,0,4,4,On-campus housing arrests
+2012,237057,Whitman College,380300,1,Whitman College,1539,0,0,0,On-campus housing arrests
+2013,235316,Gonzaga University,377800,1,Main Campus,7605,0,0,0,On-campus housing arrests
+2013,236595,Seattle University,379000,1,Main Campus,7422,0,0,0,On-campus housing arrests
+2013,236948,University of Washington-Seattle Campus,379800,1,Main Campus,43762,0,1,1,On-campus housing arrests
+2013,236939,Washington State University,380000,1,Pullman Campus,27642,1,33,5,On-campus housing arrests
+2013,237011,Western Washington University,380200,1,Bellingham Campus,14950,0,0,3,On-campus housing arrests
+2013,237057,Whitman College,380300,1,Whitman College,1541,0,0,0,On-campus housing arrests
+2014,235316,Gonzaga University,377800,1,Main Campus,7352,0,0,0,On-campus housing arrests
+2014,236595,Seattle University,379000,1,Main Campus,7273,0,0,0,On-campus housing arrests
+2014,236948,University of Washington-Seattle Campus,379800,1,Main Campus,44784,0,4,2,On-campus housing arrests
+2014,236939,Washington State University,380000,1,Pullman Campus,28686,1,10,0,On-campus housing arrests
+2014,237011,Western Washington University,380200,1,Bellingham Campus,15060,0,5,9,On-campus housing arrests
+2014,237057,Whitman College,380300,1,Whitman College,1498,0,0,0,On-campus housing arrests
+2015,235316,Gonzaga University,377800,1,Main Campus,7491,0,0,6,On-campus housing arrests
+2015,236595,Seattle University,379000,1,Main Campus,7405,0,0,0,On-campus housing arrests
+2015,236948,University of Washington-Seattle Campus,379800,1,Main Campus,45408,0,0,2,On-campus housing arrests
+2015,236939,Washington State University,380000,1,Pullman Campus,29686,0,12,0,On-campus housing arrests
+2015,237011,Western Washington University,380200,1,Bellingham Campus,15332,0,0,0,On-campus housing arrests
+2015,237057,Whitman College,380300,1,Whitman College,1470,0,0,0,On-campus housing arrests
+2016,235316,Gonzaga University,377800,1,Main Campus,7567,0,0,4,On-campus housing arrests
+2016,236595,Seattle University,379000,1,Main Campus,7487,0,0,0,On-campus housing arrests
+2016,236948,University of Washington-Seattle Campus,379800,1,Main Campus,45591,0,0,1,On-campus housing arrests
+2016,236939,Washington State University,380000,1,Pullman Campus,30142,0,9,0,On-campus housing arrests
+2016,237011,Western Washington University,380200,1,Bellingham Campus,15574,0,4,1,On-campus housing arrests
+2016,237057,Whitman College,380300,1,Whitman College,1493,0,0,0,On-campus housing arrests
+2017,235316,Gonzaga University,377800,1,Main Campus,7506,0,0,1,On-campus housing arrests
+2017,236595,Seattle University,379000,1,Main Campus,7278,0,0,0,On-campus housing arrests
+2017,236948,University of Washington-Seattle Campus,379800,1,Main Campus,46166,0,1,0,On-campus housing arrests
+2017,236939,Washington State University,380000,1,Pullman Campus,30614,0,10,1,On-campus housing arrests
+2017,237011,Western Washington University,380200,1,Bellingham Campus,15915,0,0,2,On-campus housing arrests
+2017,237057,Whitman College,380300,1,Whitman College,1510,0,0,0,On-campus housing arrests
+2018,235316,Gonzaga University,377800,1,Main Campus,7563,0,0,0,On-campus housing arrests
+2018,236595,Seattle University,379000,1,Main Campus,7291,0,0,0,On-campus housing arrests
+2018,236948,University of Washington-Seattle Campus,379800,1,Main Campus,47400,0,1,0,On-campus housing arrests
+2018,236939,Washington State University,380000,1,Pullman Campus,31478,0,5,0,On-campus housing arrests
+2018,237011,Western Washington University,380200,1,Bellingham Campus,16121,0,0,1,On-campus housing arrests
+2018,237057,Whitman College,380300,1,Whitman College,1475,0,0,0,On-campus housing arrests
+2019,235316,Gonzaga University,377800,1,Main Campus,7537,0,0,0,On-campus housing arrests
+2019,236595,Seattle University,379000,1,Main Campus,7199,0,0,0,On-campus housing arrests
+2019,236948,University of Washington-Seattle Campus,379800,1,Main Campus,47576,0,1,9,On-campus housing arrests
+2019,236939,Washington State University,380000,1,Pullman Campus,31607,0,2,2,On-campus housing arrests
+2019,237011,Western Washington University,380200,1,Bellingham Campus,16142,0,0,2,On-campus housing arrests
+2019,237057,Whitman College,380300,1,Whitman College,1579,0,0,0,On-campus housing arrests
+2020,235316,Gonzaga University,377800,1,Main Campus,7295,0,0,0,On-campus housing arrests
+2020,236595,Seattle University,379000,1,Main Campus,7050,0,0,0,On-campus housing arrests
+2020,236948,University of Washington-Seattle Campus,379800,1,Main Campus,48149,0,0,0,On-campus housing arrests
+2020,236939,Washington State University,380000,1,Pullman Campus,31159,0,5,0,On-campus housing arrests
+2020,237011,Western Washington University,380200,1,Bellingham Campus,15197,0,0,0,On-campus housing arrests
+2020,237057,Whitman College,380300,1,Whitman College,1360,0,0,0,On-campus housing arrests
+2021,235316,Gonzaga University,377800,1,Main Campus,7381,0,0,0,On-campus housing arrests
+2021,236595,Seattle University,379000,1,Main Campus,7268,0,0,0,On-campus housing arrests
+2021,236948,University of Washington-Seattle Campus,379800,1,Main Campus,52434,0,0,0,On-campus housing arrests
+2021,236939,Washington State University,380000,1,Pullman Campus,29843,0,0,0,On-campus housing arrests
+2021,237011,Western Washington University,380200,1,Bellingham Campus,15125,0,0,0,On-campus housing arrests
+2021,237057,Whitman College,380300,1,Whitman College,1559,0,0,0,On-campus housing arrests
+2022,235316,Gonzaga University,377800,1,Main Campus,7253,0,0,0,On-campus housing arrests
+2022,236595,Seattle University,379000,1,Main Campus,7121,0,0,0,On-campus housing arrests
+2022,236948,University of Washington-Seattle Campus,379800,1,Main Campus,52319,0,0,0,On-campus housing arrests
+2022,236939,Washington State University,380000,1,Pullman Campus,27539,0,0,0,On-campus housing arrests
+2022,237011,Western Washington University,380200,1,Bellingham Campus,14747,0,0,0,On-campus housing arrests
+2022,237057,Whitman College,380300,1,Whitman College,1493,0,0,0,On-campus housing arrests
+2001,235316,Gonzaga University,377800,1,Main Campus,4874,0,0,7,Public property arrests
+2001,236595,Seattle University,379000,1,Main Campus,5981,0,0,0,Public property arrests
+2001,236948,University of Washington-Seattle Campus,379800,1,Main Campus,37412,0,0,0,Public property arrests
+2001,236939,Washington State University,380000,1,Pullman Campus,21073,0,10,110,Public property arrests
+2001,237011,Western Washington University,380200,1,Bellingham Campus,12409,0,3,6,Public property arrests
+2001,237057,Whitman College,380300,1,Whitman College,1439,0,0,0,Public property arrests
+2002,235316,Gonzaga University,377800,1,Main Campus,5254,0,0,1,Public property arrests
+2002,236595,Seattle University,379000,1,Main Campus,6270,0,0,0,Public property arrests
+2002,236948,University of Washington-Seattle Campus,379800,1,Main Campus,39882,0,0,0,Public property arrests
+2002,236939,Washington State University,380000,1,Pullman Campus,21880,0,9,111,Public property arrests
+2002,237011,Western Washington University,380200,1,Bellingham Campus,13865,3,5,11,Public property arrests
+2002,237057,Whitman College,380300,1,Whitman College,1454,2,298,96,Public property arrests
+2003,235316,Gonzaga University,377800,1,Main Campus,5494,0,0,2,Public property arrests
+2003,236595,Seattle University,379000,1,Main Campus,6659,0,0,0,Public property arrests
+2003,236948,University of Washington-Seattle Campus,379800,1,Main Campus,39135,1,34,13,Public property arrests
+2003,236939,Washington State University,380000,1,Pullman Campus,22712,0,3,119,Public property arrests
+2003,237011,Western Washington University,380200,1,Bellingham Campus,13845,0,4,1,Public property arrests
+2003,237057,Whitman College,380300,1,Whitman College,1454,0,0,0,Public property arrests
+2004,235316,Gonzaga University,377800,1,Main Campus,5858,0,0,0,Public property arrests
+2004,236595,Seattle University,379000,1,Main Campus,6810,0,0,0,Public property arrests
+2004,236948,University of Washington-Seattle Campus,379800,1,Main Campus,39199,1,20,14,Public property arrests
+2004,236939,Washington State University,380000,1,Pullman Campus,23241,1,5,85,Public property arrests
+2004,237011,Western Washington University,380200,1,Bellingham Campus,14190,1,1,78,Public property arrests
+2004,237057,Whitman College,380300,1,Whitman College,1481,0,0,0,Public property arrests
+2005,235316,Gonzaga University,377800,1,Main Campus,6377,0,0,4,Public property arrests
+2005,236595,Seattle University,379000,1,Main Campus,7109,0,0,0,Public property arrests
+2005,236948,University of Washington-Seattle Campus,379800,1,Main Campus,39251,0,2,10,Public property arrests
+2005,236939,Washington State University,380000,1,Pullman Campus,23544,5,16,100,Public property arrests
+2005,237011,Western Washington University,380200,1,Bellingham Campus,14247,1,20,18,Public property arrests
+2005,237057,Whitman College,380300,1,Whitman College,1512,0,0,0,Public property arrests
+2006,235316,Gonzaga University,377800,1,Main Campus,6607,0,0,4,Public property arrests
+2006,236595,Seattle University,379000,1,Main Campus,7226,0,0,0,Public property arrests
+2006,236948,University of Washington-Seattle Campus,379800,1,Main Campus,39524,0,2,2,Public property arrests
+2006,236939,Washington State University,380000,1,Pullman Campus,23655,0,0,24,Public property arrests
+2006,237011,Western Washington University,380200,1,Bellingham Campus,14035,1,4,7,Public property arrests
+2006,237057,Whitman College,380300,1,Whitman College,1455,0,0,0,Public property arrests
+2007,235316,Gonzaga University,377800,1,Main Campus,6873,0,0,5,Public property arrests
+2007,236595,Seattle University,379000,1,Main Campus,7529,0,0,0,Public property arrests
+2007,236948,University of Washington-Seattle Campus,379800,1,Main Campus,40218,1,5,1,Public property arrests
+2007,236939,Washington State University,380000,1,Pullman Campus,24396,1,4,27,Public property arrests
+2007,237011,Western Washington University,380200,1,Bellingham Campus,14276,0,0,1,Public property arrests
+2007,237057,Whitman College,380300,1,Whitman College,1489,0,0,0,Public property arrests
+2008,235316,Gonzaga University,377800,1,Main Campus,7272,0,0,3,Public property arrests
+2008,236595,Seattle University,379000,1,Main Campus,7560,0,0,0,Public property arrests
+2008,236948,University of Washington-Seattle Campus,379800,1,Main Campus,39675,0,3,9,Public property arrests
+2008,236939,Washington State University,380000,1,Pullman Campus,25352,0,0,19,Public property arrests
+2008,237011,Western Washington University,380200,1,Bellingham Campus,14620,0,2,0,Public property arrests
+2008,237057,Whitman College,380300,1,Whitman College,1458,0,0,0,Public property arrests
+2009,235316,Gonzaga University,377800,1,Main Campus,7633,0,0,4,Public property arrests
+2009,236595,Seattle University,379000,1,Main Campus,7751,0,0,0,Public property arrests
+2009,236948,University of Washington-Seattle Campus,379800,1,Main Campus,45943,0,0,0,Public property arrests
+2009,236939,Washington State University,380000,1,Pullman Campus,26101,0,1,10,Public property arrests
+2009,237011,Western Washington University,380200,1,Bellingham Campus,14575,3,16,14,Public property arrests
+2009,237057,Whitman College,380300,1,Whitman College,1515,0,0,0,Public property arrests
+2010,235316,Gonzaga University,377800,1,Main Campus,7738,0,2,0,Public property arrests
+2010,236595,Seattle University,379000,1,Main Campus,7817,0,0,0,Public property arrests
+2010,236948,University of Washington-Seattle Campus,379800,1,Main Campus,42451,1,2,6,Public property arrests
+2010,236939,Washington State University,380000,1,Pullman Campus,26308,0,3,17,Public property arrests
+2010,237011,Western Washington University,380200,1,Bellingham Campus,14979,0,7,52,Public property arrests
+2010,237057,Whitman College,380300,1,Whitman College,1555,0,0,0,Public property arrests
+2011,235316,Gonzaga University,377800,1,Main Campus,7764,0,1,2,Public property arrests
+2011,236595,Seattle University,379000,1,Main Campus,7755,0,0,0,Public property arrests
+2011,236948,University of Washington-Seattle Campus,379800,1,Main Campus,42444,0,0,1,Public property arrests
+2011,236939,Washington State University,380000,1,Pullman Campus,27329,2,3,7,Public property arrests
+2011,237011,Western Washington University,380200,1,Bellingham Campus,14842,0,2,10,Public property arrests
+2011,237057,Whitman College,380300,1,Whitman College,1596,0,0,0,Public property arrests
+2012,235316,Gonzaga University,377800,1,Main Campus,7781,0,3,4,Public property arrests
+2012,236595,Seattle University,379000,1,Main Campus,7484,0,0,0,Public property arrests
+2012,236948,University of Washington-Seattle Campus,379800,1,Main Campus,43485,1,0,12,Public property arrests
+2012,236939,Washington State University,380000,1,Pullman Campus,27679,0,1,3,Public property arrests
+2012,237011,Western Washington University,380200,1,Bellingham Campus,14833,0,1,4,Public property arrests
+2012,237057,Whitman College,380300,1,Whitman College,1539,0,0,0,Public property arrests
+2013,235316,Gonzaga University,377800,1,Main Campus,7605,0,0,2,Public property arrests
+2013,236595,Seattle University,379000,1,Main Campus,7422,1,5,0,Public property arrests
+2013,236948,University of Washington-Seattle Campus,379800,1,Main Campus,43762,0,0,2,Public property arrests
+2013,236939,Washington State University,380000,1,Pullman Campus,27642,0,2,1,Public property arrests
+2013,237011,Western Washington University,380200,1,Bellingham Campus,14950,0,0,0,Public property arrests
+2013,237057,Whitman College,380300,1,Whitman College,1541,0,0,0,Public property arrests
+2014,235316,Gonzaga University,377800,1,Main Campus,7352,0,0,3,Public property arrests
+2014,236595,Seattle University,379000,1,Main Campus,7273,0,1,0,Public property arrests
+2014,236948,University of Washington-Seattle Campus,379800,1,Main Campus,44784,0,1,1,Public property arrests
+2014,236939,Washington State University,380000,1,Pullman Campus,28686,0,0,0,Public property arrests
+2014,237011,Western Washington University,380200,1,Bellingham Campus,15060,0,0,0,Public property arrests
+2014,237057,Whitman College,380300,1,Whitman College,1498,0,0,0,Public property arrests
+2015,235316,Gonzaga University,377800,1,Main Campus,7491,0,0,0,Public property arrests
+2015,236595,Seattle University,379000,1,Main Campus,7405,0,0,0,Public property arrests
+2015,236948,University of Washington-Seattle Campus,379800,1,Main Campus,45408,2,5,1,Public property arrests
+2015,236939,Washington State University,380000,1,Pullman Campus,29686,0,4,2,Public property arrests
+2015,237011,Western Washington University,380200,1,Bellingham Campus,15332,0,1,0,Public property arrests
+2015,237057,Whitman College,380300,1,Whitman College,1470,0,0,0,Public property arrests
+2016,235316,Gonzaga University,377800,1,Main Campus,7567,0,0,4,Public property arrests
+2016,236595,Seattle University,379000,1,Main Campus,7487,1,0,0,Public property arrests
+2016,236595,Seattle University,379000,2,Eastside Campus,7487,0,0,0,Public property arrests
+2016,236948,University of Washington-Seattle Campus,379800,1,Main Campus,45591,0,0,0,Public property arrests
+2016,236939,Washington State University,380000,1,Pullman Campus,30142,0,0,0,Public property arrests
+2016,237011,Western Washington University,380200,1,Bellingham Campus,15574,0,1,2,Public property arrests
+2016,237057,Whitman College,380300,1,Whitman College,1493,0,0,0,Public property arrests
+2017,235316,Gonzaga University,377800,1,Main Campus,7506,1,1,5,Public property arrests
+2017,236595,Seattle University,379000,1,Main Campus,7278,0,3,0,Public property arrests
+2017,236595,Seattle University,379000,2,Eastside Campus,7278,0,0,0,Public property arrests
+2017,236948,University of Washington-Seattle Campus,379800,1,Main Campus,46166,0,1,0,Public property arrests
+2017,236939,Washington State University,380000,1,Pullman Campus,30614,0,0,1,Public property arrests
+2017,237011,Western Washington University,380200,1,Bellingham Campus,15915,0,1,2,Public property arrests
+2017,237057,Whitman College,380300,1,Whitman College,1510,0,0,0,Public property arrests
+2018,235316,Gonzaga University,377800,1,Main Campus,7563,0,0,0,Public property arrests
+2018,236595,Seattle University,379000,1,Main Campus,7291,0,0,0,Public property arrests
+2018,236948,University of Washington-Seattle Campus,379800,1,Main Campus,47400,0,1,0,Public property arrests
+2018,236939,Washington State University,380000,1,Pullman Campus,31478,1,3,2,Public property arrests
+2018,237011,Western Washington University,380200,1,Bellingham Campus,16121,0,1,1,Public property arrests
+2018,237057,Whitman College,380300,1,Whitman College,1475,0,0,0,Public property arrests
+2019,235316,Gonzaga University,377800,1,Main Campus,7537,0,0,0,Public property arrests
+2019,236595,Seattle University,379000,1,Main Campus,7199,0,1,0,Public property arrests
+2019,236948,University of Washington-Seattle Campus,379800,1,Main Campus,47576,0,0,0,Public property arrests
+2019,236939,Washington State University,380000,1,Pullman Campus,31607,1,2,4,Public property arrests
+2019,237011,Western Washington University,380200,1,Bellingham Campus,16142,0,1,0,Public property arrests
+2019,237057,Whitman College,380300,1,Whitman College,1579,0,0,0,Public property arrests
+2020,235316,Gonzaga University,377800,1,Main Campus,7295,0,0,0,Public property arrests
+2020,236595,Seattle University,379000,1,Main Campus,7050,1,1,0,Public property arrests
+2020,236948,University of Washington-Seattle Campus,379800,1,Main Campus,48149,0,0,0,Public property arrests
+2020,236939,Washington State University,380000,1,Pullman Campus,31159,0,0,0,Public property arrests
+2020,237011,Western Washington University,380200,1,Bellingham Campus,15197,0,0,0,Public property arrests
+2020,237057,Whitman College,380300,1,Whitman College,1360,0,0,0,Public property arrests
+2021,235316,Gonzaga University,377800,1,Main Campus,7381,0,0,0,Public property arrests
+2021,236595,Seattle University,379000,1,Main Campus,7268,0,0,0,Public property arrests
+2021,236948,University of Washington-Seattle Campus,379800,1,Main Campus,52434,0,1,0,Public property arrests
+2021,236939,Washington State University,380000,1,Pullman Campus,29843,0,0,1,Public property arrests
+2021,237011,Western Washington University,380200,1,Bellingham Campus,15125,0,0,0,Public property arrests
+2021,237057,Whitman College,380300,1,Whitman College,1559,0,0,0,Public property arrests
+2022,235316,Gonzaga University,377800,1,Main Campus,7253,0,0,0,Public property arrests
+2022,236595,Seattle University,379000,1,Main Campus,7121,0,0,0,Public property arrests
+2022,236948,University of Washington-Seattle Campus,379800,1,Main Campus,52319,0,0,0,Public property arrests
+2022,236939,Washington State University,380000,1,Pullman Campus,27539,0,0,0,Public property arrests
+2022,237011,Western Washington University,380200,1,Bellingham Campus,14747,0,0,0,Public property arrests
+2022,237057,Whitman College,380300,1,Whitman College,1493,0,0,0,Public property arrests
+2001,235316,Gonzaga University,377800,1,Main Campus,4874,0,0,0,Off-campus arrests
+2001,236595,Seattle University,379000,1,Main Campus,5981,0,0,0,Off-campus arrests
+2001,236948,University of Washington-Seattle Campus,379800,1,Main Campus,37412,0,0,0,Off-campus arrests
+2001,236939,Washington State University,380000,1,Pullman Campus,21073,0,2,13,Off-campus arrests
+2001,237011,Western Washington University,380200,1,Bellingham Campus,12409,0,0,0,Off-campus arrests
+2001,237057,Whitman College,380300,1,Whitman College,1439,0,0,0,Off-campus arrests
+2002,235316,Gonzaga University,377800,1,Main Campus,5254,0,0,0,Off-campus arrests
+2002,236939,Washington State University,380000,1,Pullman Campus,21880,0,44,36,Off-campus arrests
+2002,237011,Western Washington University,380200,1,Bellingham Campus,13865,0,0,0,Off-campus arrests
+2002,237057,Whitman College,380300,1,Whitman College,1454,0,0,0,Off-campus arrests
+2003,235316,Gonzaga University,377800,1,Main Campus,5494,0,0,0,Off-campus arrests
+2003,236595,Seattle University,379000,1,Main Campus,6659,0,0,0,Off-campus arrests
+2003,236948,University of Washington-Seattle Campus,379800,1,Main Campus,39135,0,6,0,Off-campus arrests
+2003,236939,Washington State University,380000,1,Pullman Campus,22712,0,6,7,Off-campus arrests
+2003,237011,Western Washington University,380200,1,Bellingham Campus,13845,0,0,0,Off-campus arrests
+2003,237057,Whitman College,380300,1,Whitman College,1454,0,0,0,Off-campus arrests
+2004,235316,Gonzaga University,377800,1,Main Campus,5858,0,0,0,Off-campus arrests
+2004,236948,University of Washington-Seattle Campus,379800,1,Main Campus,39199,0,2,5,Off-campus arrests
+2004,236939,Washington State University,380000,1,Pullman Campus,23241,1,2,4,Off-campus arrests
+2004,237011,Western Washington University,380200,1,Bellingham Campus,14190,0,0,0,Off-campus arrests
+2004,237057,Whitman College,380300,1,Whitman College,1481,0,0,0,Off-campus arrests
+2005,235316,Gonzaga University,377800,1,Main Campus,6377,0,0,0,Off-campus arrests
+2005,236948,University of Washington-Seattle Campus,379800,1,Main Campus,39251,0,0,2,Off-campus arrests
+2005,236939,Washington State University,380000,1,Pullman Campus,23544,0,1,2,Off-campus arrests
+2005,237011,Western Washington University,380200,1,Bellingham Campus,14247,0,1,2,Off-campus arrests
+2005,237057,Whitman College,380300,1,Whitman College,1512,0,0,0,Off-campus arrests
+2006,235316,Gonzaga University,377800,1,Main Campus,6607,0,0,0,Off-campus arrests
+2006,236948,University of Washington-Seattle Campus,379800,1,Main Campus,39524,0,0,15,Off-campus arrests
+2006,236939,Washington State University,380000,1,Pullman Campus,23655,0,1,4,Off-campus arrests
+2006,237011,Western Washington University,380200,1,Bellingham Campus,14035,4,22,23,Off-campus arrests
+2006,237057,Whitman College,380300,1,Whitman College,1455,0,0,0,Off-campus arrests
+2007,235316,Gonzaga University,377800,1,Main Campus,6873,0,0,0,Off-campus arrests
+2007,236948,University of Washington-Seattle Campus,379800,1,Main Campus,40218,1,0,8,Off-campus arrests
+2007,236939,Washington State University,380000,1,Pullman Campus,24396,0,0,3,Off-campus arrests
+2007,237011,Western Washington University,380200,1,Bellingham Campus,14276,5,29,47,Off-campus arrests
+2007,237057,Whitman College,380300,1,Whitman College,1489,0,0,0,Off-campus arrests
+2008,235316,Gonzaga University,377800,1,Main Campus,7272,0,0,0,Off-campus arrests
+2008,236948,University of Washington-Seattle Campus,379800,1,Main Campus,39675,1,6,41,Off-campus arrests
+2008,236939,Washington State University,380000,1,Pullman Campus,25352,0,3,4,Off-campus arrests
+2008,237011,Western Washington University,380200,1,Bellingham Campus,14620,0,9,12,Off-campus arrests
+2008,237057,Whitman College,380300,1,Whitman College,1458,0,0,0,Off-campus arrests
+2009,235316,Gonzaga University,377800,1,Main Campus,7633,0,0,0,Off-campus arrests
+2009,236595,Seattle University,379000,1,Main Campus,7751,0,0,0,Off-campus arrests
+2009,236948,University of Washington-Seattle Campus,379800,1,Main Campus,45943,0,12,75,Off-campus arrests
+2009,236939,Washington State University,380000,1,Pullman Campus,26101,0,0,8,Off-campus arrests
+2009,237011,Western Washington University,380200,1,Bellingham Campus,14575,0,0,0,Off-campus arrests
+2009,237057,Whitman College,380300,1,Whitman College,1515,0,0,0,Off-campus arrests
+2010,235316,Gonzaga University,377800,1,Main Campus,7738,0,0,0,Off-campus arrests
+2010,236595,Seattle University,379000,1,Main Campus,7817,0,0,0,Off-campus arrests
+2010,236948,University of Washington-Seattle Campus,379800,1,Main Campus,42451,0,1,37,Off-campus arrests
+2010,236939,Washington State University,380000,1,Pullman Campus,26308,0,0,1,Off-campus arrests
+2010,237011,Western Washington University,380200,1,Bellingham Campus,14979,0,0,0,Off-campus arrests
+2010,237057,Whitman College,380300,1,Whitman College,1555,0,0,0,Off-campus arrests
+2011,235316,Gonzaga University,377800,1,Main Campus,7764,0,0,0,Off-campus arrests
+2011,236595,Seattle University,379000,1,Main Campus,7755,0,0,0,Off-campus arrests
+2011,236948,University of Washington-Seattle Campus,379800,1,Main Campus,42444,0,9,16,Off-campus arrests
+2011,236939,Washington State University,380000,1,Pullman Campus,27329,1,1,10,Off-campus arrests
+2011,237011,Western Washington University,380200,1,Bellingham Campus,14842,0,0,0,Off-campus arrests
+2011,237057,Whitman College,380300,1,Whitman College,1596,0,0,0,Off-campus arrests
+2012,235316,Gonzaga University,377800,1,Main Campus,7781,0,0,0,Off-campus arrests
+2012,236595,Seattle University,379000,1,Main Campus,7484,0,0,0,Off-campus arrests
+2012,236948,University of Washington-Seattle Campus,379800,1,Main Campus,43485,1,2,22,Off-campus arrests
+2012,236939,Washington State University,380000,1,Pullman Campus,27679,1,1,16,Off-campus arrests
+2012,237011,Western Washington University,380200,1,Bellingham Campus,14833,0,0,0,Off-campus arrests
+2012,237057,Whitman College,380300,1,Whitman College,1539,0,0,0,Off-campus arrests
+2013,235316,Gonzaga University,377800,1,Main Campus,7605,0,0,0,Off-campus arrests
+2013,236595,Seattle University,379000,1,Main Campus,7422,0,0,0,Off-campus arrests
+2013,236948,University of Washington-Seattle Campus,379800,1,Main Campus,43762,1,0,42,Off-campus arrests
+2013,236939,Washington State University,380000,1,Pullman Campus,27642,0,0,3,Off-campus arrests
+2013,237011,Western Washington University,380200,1,Bellingham Campus,14950,0,0,0,Off-campus arrests
+2013,237057,Whitman College,380300,1,Whitman College,1541,0,0,0,Off-campus arrests
+2014,235316,Gonzaga University,377800,1,Main Campus,7352,0,0,0,Off-campus arrests
+2014,236948,University of Washington-Seattle Campus,379800,1,Main Campus,44784,0,0,15,Off-campus arrests
+2014,236939,Washington State University,380000,1,Pullman Campus,28686,0,0,7,Off-campus arrests
+2014,237011,Western Washington University,380200,1,Bellingham Campus,15060,0,0,0,Off-campus arrests
+2014,237057,Whitman College,380300,1,Whitman College,1498,0,0,0,Off-campus arrests
+2015,235316,Gonzaga University,377800,1,Main Campus,7491,0,0,0,Off-campus arrests
+2015,236595,Seattle University,379000,1,Main Campus,7405,0,0,0,Off-campus arrests
+2015,236948,University of Washington-Seattle Campus,379800,1,Main Campus,45408,0,1,3,Off-campus arrests
+2015,236939,Washington State University,380000,1,Pullman Campus,29686,0,2,5,Off-campus arrests
+2015,237011,Western Washington University,380200,1,Bellingham Campus,15332,0,0,0,Off-campus arrests
+2015,237057,Whitman College,380300,1,Whitman College,1470,0,0,0,Off-campus arrests
+2016,235316,Gonzaga University,377800,1,Main Campus,7567,0,0,0,Off-campus arrests
+2016,236948,University of Washington-Seattle Campus,379800,1,Main Campus,45591,1,1,0,Off-campus arrests
+2016,236939,Washington State University,380000,1,Pullman Campus,30142,0,0,0,Off-campus arrests
+2016,237011,Western Washington University,380200,1,Bellingham Campus,15574,0,0,1,Off-campus arrests
+2016,237057,Whitman College,380300,1,Whitman College,1493,0,0,0,Off-campus arrests
+2017,235316,Gonzaga University,377800,1,Main Campus,7506,0,0,0,Off-campus arrests
+2017,236948,University of Washington-Seattle Campus,379800,1,Main Campus,46166,0,1,4,Off-campus arrests
+2017,236939,Washington State University,380000,1,Pullman Campus,30614,0,0,4,Off-campus arrests
+2017,237011,Western Washington University,380200,1,Bellingham Campus,15915,0,0,0,Off-campus arrests
+2017,237057,Whitman College,380300,1,Whitman College,1510,0,0,0,Off-campus arrests
+2018,235316,Gonzaga University,377800,1,Main Campus,7563,0,0,0,Off-campus arrests
+2018,236948,University of Washington-Seattle Campus,379800,1,Main Campus,47400,0,0,0,Off-campus arrests
+2018,236939,Washington State University,380000,1,Pullman Campus,31478,0,0,0,Off-campus arrests
+2018,237011,Western Washington University,380200,1,Bellingham Campus,16121,0,1,0,Off-campus arrests
+2018,237057,Whitman College,380300,1,Whitman College,1475,0,0,0,Off-campus arrests
+2019,235316,Gonzaga University,377800,1,Main Campus,7537,0,0,0,Off-campus arrests
+2019,236948,University of Washington-Seattle Campus,379800,1,Main Campus,47576,4,6,35,Off-campus arrests
+2019,236939,Washington State University,380000,1,Pullman Campus,31607,0,2,3,Off-campus arrests
+2019,237011,Western Washington University,380200,1,Bellingham Campus,16142,0,0,0,Off-campus arrests
+2019,237057,Whitman College,380300,1,Whitman College,1579,0,0,0,Off-campus arrests
+2020,235316,Gonzaga University,377800,1,Main Campus,7295,0,0,0,Off-campus arrests
+2020,236948,University of Washington-Seattle Campus,379800,1,Main Campus,48149,1,0,0,Off-campus arrests
+2020,236939,Washington State University,380000,1,Pullman Campus,31159,1,0,0,Off-campus arrests
+2020,237011,Western Washington University,380200,1,Bellingham Campus,15197,0,0,0,Off-campus arrests
+2020,237057,Whitman College,380300,1,Whitman College,1360,0,0,0,Off-campus arrests
+2021,235316,Gonzaga University,377800,1,Main Campus,7381,0,0,0,Off-campus arrests
+2021,236948,University of Washington-Seattle Campus,379800,1,Main Campus,52434,0,0,1,Off-campus arrests
+2021,236939,Washington State University,380000,1,Pullman Campus,29843,0,0,1,Off-campus arrests
+2021,237011,Western Washington University,380200,1,Bellingham Campus,15125,0,0,0,Off-campus arrests
+2021,237057,Whitman College,380300,1,Whitman College,1559,0,0,0,Off-campus arrests
+2022,235316,Gonzaga University,377800,1,Main Campus,7253,0,0,0,Off-campus arrests
+2022,236595,Seattle University,379000,1,Main Campus,7121,0,0,0,Off-campus arrests
+2022,236948,University of Washington-Seattle Campus,379800,1,Main Campus,52319,0,0,0,Off-campus arrests
+2022,236939,Washington State University,380000,1,Pullman Campus,27539,1,0,0,Off-campus arrests
+2022,237011,Western Washington University,380200,1,Bellingham Campus,14747,0,0,0,Off-campus arrests
+2022,237057,Whitman College,380300,1,Whitman College,1493,0,0,0,Off-campus arrests

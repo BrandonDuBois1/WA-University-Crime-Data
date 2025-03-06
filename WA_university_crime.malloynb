@@ -1,0 +1,413 @@
+>>>malloy
+// Enter Malloy here
+Source: arrests is duckdb.table("./arrests.csv") extend{
+    dimension:
+    campusyearID is concat(Unitid, "-", `Survey year`)
+    --yeararrests is sum(`Drug law Violations`)
+    yeararrests is `Illegal weapons possession` + `Drug law violations` + `Liquor law violations`
+    percapitatot1k is yeararrests/`Institution Size`*1000
+    percapitadrugs1k is `Drug law violations`/`Institution Size`*1000
+    percapitaweapons1k is `Illegal weapons possession`/`Institution Size`*1000
+    percapitaliquor1k is `Liquor law violations`/`Institution Size`*1000
+    measure:
+    percapitaavg is avg(percapitatot1k)
+    totalarrests is sum(yeararrests)
+    percapitadrugs is avg(percapitadrugs1k)
+    percapitaalc is avg(percapitaliquor1k)
+    percapitapew is avg(percapitaweapons1k)
+    primary_key: campusyearID
+    
+}
+
+Source: offenses is duckdb.table("./offenses.csv") extend{
+    join_one: arrests on campusyearID = arrests.campusyearID
+    dimension:
+    campusyearID is concat(Unitid, "-", `Survey year`)
+    numoffenses is `Aggravated assault` + Arson + Burglary + Fondling + Incest + `Motor vehicle theft` + `Murder/Non-negligent manslaughter` + `Negligent manslaughter` + Rape + Robbery + `Sex offenses - Forcible` + `Sex offenses - Non-forcible` + `Statutory rape`
+    offensesper1k is numoffenses/`Institution Size`*1000
+    Violentcrimes is `Aggravated assault` + Arson + `Murder/Non-negligent manslaughter` + Robbery
+    Sexcrimes is Fondling + Incest + Rape + `Sex offenses - Forcible` + `Sex offenses - Non-forcible` + `Statutory rape`
+    nonviolentcrimes is Burglary + `Motor vehicle theft` + `Negligent manslaughter`
+    violentcrimesper1k is Violentcrimes/`Institution Size`*1000
+    rapesper1k is Rape/`Institution Size`*1000
+    sexcrimesper1k is Sexcrimes/`Institution Size`*1000 
+    measure:
+    totoffenses is sum(numoffenses)
+    totviolent is sum(Violentcrimes)
+    totsexual is sum(Sexcrimes)
+    totnonviolent is sum(nonviolentcrimes)
+    percapitatot is avg(offensesper1k)
+    percapitaviolent is avg(violentcrimesper1k)
+    totviolentpre20 is totviolent {where: `Survey year` < 2020}
+    postcovidviolence is totviolent {where: `Survey year` > 2019}
+    rapepercapita is avg(rapesper1k)
+    sxcrimepercapita is avg(sexcrimesper1k)
+}
+
+Source: discipline is duckdb.table("./disciplinary_actions.csv") extend{
+    join_one: offenses on campusyearID = offenses.campusyearID
+    join_one: arrests on campusyearID = arrests.campusyearID
+    dimension:
+    campusyearID is concat(Unitid, "-", `Survey year`)
+    yeardisciplines is `Drug law violations` + `Illegal weapons possession` + `Liquor law violations`
+    percapitadisc is yeardisciplines/`Institution Size`*1000
+    percapitaintoxicants1k is (`Liquor law violations`+`Drug law violations`)/`Institution Size`*1000
+    --Intoxicants is `Drug law violations` + `Liquor law violations`
+    measure: 
+    liquor is sum(`Liquor law violations`)
+    drugs is sum(`Drug law violations`)
+    weapons is sum(`Illegal weapons possession`)
+    Intoxicants is liquor + drugs
+    totdisciplines is sum(yeardisciplines)
+    percapitaintoxicants is avg(percapitaintoxicants1k)
+    percapita is avg(percapitadisc)
+    totalincidentspercapita is percapita + offenses.percapitatot + arrests.percapitaavg
+}
+
+Source: vaw is duckdb.table("./vaw.csv") extend{
+    join_one: offenses on campusyearID = offenses.campusyearID
+    join_one: arrests on campusyearID = arrests.campusyearID
+    join_one: discipline on campusyearID = discipline.campusyearID
+    dimension:
+    campusyearID is concat(Unitid, "-", `Survey year`)
+    yearvaw is `Dating violence` + `Domestic violence` + Stalking
+    percapitavaw is yearvaw/`Institution Size`*1000
+    measure:
+    totdateviolence is sum(`Dating violence`)
+    totdv is sum(`Domestic violence`)
+    totstalk is sum(Stalking)
+    totvaw is totdateviolence + totdv + totstalk
+    vawpercapita is avg(percapitavaw)
+}
+>>>markdown
+ARREST ANALYSIS
+>>>markdown
+1. avg number of per capita arrest per school?
+>>>malloy
+run: arrests -> {
+    group_by: `Institution name`
+    aggregate: totalarrests
+    aggregate: percapitaavg
+    aggregate: percapitadrugs
+    aggregate: percapitaalc
+    aggregate: percapitapew
+}
+>>>markdown
+WSU has the most arrests by far.  This makes sense being that it is a large school and known for its partying. The surprise here is that Whitman has the highest per-capita number of arrests.  I wonder if this is because of overzealous small-town police or if Whitman students are really comitting crimes at a higher rate? It appears Whitman's high rate is driven by drug crimes.
+>>>markdown
+2. Showing total number of arrests and per 1000 students over the time period of this data
+>>>malloy
+run: arrests -> {
+    group_by: `Survey year`
+    aggregate: totalarrests
+    aggregate: percapitaavg
+    order_by: `Survey year` ASC
+}
+>>>markdown
+Per capita arrests seems to be clearly going down as a whole in WA over time.  2002 appears to be an anomoly for some reason - I wonder if there is a specific event driving that.
+>>>markdown
+3. Showing the per capita (1000 students) arrests at each university, broken up by the location of arrest.
+>>>malloy
+# bar_chart
+run: arrests  -> {
+    where: Category ? 'On-campus arrests' | 'Off-campus arrests' | 'Public property arrests' | 'On-campus housing arrests'
+    group_by: `Institution name`, Category
+    aggregate: percapitaavg
+}
+>>>markdown
+Whitman has a an enormous rate of arrests on public propertry.  WSU has a very high rate of arrests on campus.
+>>>markdown
+OFFENSE ANALYSIS
+>>>markdown
+4. Looking at the number of arson offenses at each school over the years.
+>>>malloy
+
+run: offenses -> {
+    group_by: `Survey year`
+    aggregate: numarson is sum(Arson)
+    order_by: `Survey year` ASC
+    nest: byschool is {
+        group_by: `Institution name`
+        aggregate: numarson is sum(Arson)
+    }
+}
+>>>markdown
+While the numbers are low, the fact that there seems to be regular instances of arson at most of the listed schools is surprising and concerning.  Post covid there seems to have been a massive spike in arson at the UW.
+>>>markdown
+5. Creating a detailed table of offenses by year and category.
+>>>malloy
+--# bar_chart
+run: offenses -> {
+    group_by: `Survey year`
+    aggregate: Arsons is sum(Arson)
+    aggregate: Assaults is sum (`Aggravated assault`)
+    aggregate: Burglaries is sum(Burglary)
+    aggregate: Fondlings is sum(Fondling)
+    aggregate: Incests is sum(Incest)
+    aggregate: GTA is sum(`Motor vehicle theft`)
+    aggregate: Murder is sum(`Murder/Non-negligent manslaughter`)
+    aggregate: Manslaughter is sum(`Negligent manslaughter`)
+    aggregate: Rapes is sum(Rape)
+    aggregate: Robberies is sum(Robbery)
+    aggregate: Sexcrimes is sum(`Sex offenses - Forcible`) + sum(`Sex offenses - Non-forcible`) + sum(`Statutory rape`)
+    aggregate: totoffenses
+    order_by: `Survey year` ASC
+}
+>>>markdown
+6. Offenses by location and institution
+>>>malloy
+run: offenses -> {
+    group_by: Category
+    aggregate: totoffenses
+    nest: byschool is {
+        group_by: `Institution name`
+        aggregate: totoffenses
+    }
+}
+>>>markdown
+As one would expect due to size, UW and WSU lead all of these categories.  What is surprising is that Gonzaga and Seattle U students lead crime even by number over the bigger schools when it comes to comitting crimes in public.
+>>>markdown
+7. Trend of criminal offenses (in total) at each university over time.
+>>>malloy
+# line_chart
+run: offenses -> {
+    group_by: `Survey year`
+    aggregate: totoffenses
+    group_by: `Institution name`
+    order_by: `Survey year` ASC
+    limit: 100000
+}
+>>>markdown
+Fairl steady amount of crime at each school, but notable increase at UW.
+>>>markdown
+8. Trend of offenses per-capita at each university over time.
+>>>malloy
+# line_chart
+run: offenses -> {
+    group_by: `Survey year`
+    aggregate: percapitatot
+    group_by: `Institution name`
+    order_by: `Survey year` ASC
+    limit: 100000
+}
+>>>markdown
+Woah Whitman!  The per capita rate of offenses was inline with other schools for a long time, but seems to have skyrocketed after 2010 and remained high most years.
+>>>markdown
+9. Who has the most violent incidents per capita?
+>>>malloy
+run: offenses -> {
+    group_by: `Institution name`
+    aggregate: percapitaviolent
+    aggregate: percapitatot
+}
+>>>markdown
+Again Whitman coming in leading violent crime.  The interesting thing to note hear is that the smallest 3 universities reported here are leading the pack by violent crimes per capita.  When we compare this by total crimes per capita, the order is different.  The surprising one here is Seattle U.  It's 2nd in violent crimes but 4th in crime.  This suggest that a larger proportion of there overall reported crime is comes from violent crime.
+>>>markdown
+10. Showing the change in average violent crime rate in the years before covid and in the years after covid
+>>>malloy
+run: offenses -> {
+    group_by: `Institution name`
+    aggregate: totviolentpre20
+    aggregate: postcovidviolence
+    aggregate: precovidrate is percapitaviolent {where: `Survey year` < 2020}
+    aggregate: postcovidrate is percapitaviolent {where: `Survey year` > 2019}
+    aggregate: change is percapitaviolent {where: `Survey year` > 2019} - percapitaviolent {where: `Survey year` < 2020}
+    aggregate: 
+        # percent
+        pctchange is (percapitaviolent {where: `Survey year` > 2019} - percapitaviolent {where: `Survey year` < 2020})/(percapitaviolent {where: `Survey year` < 2020})
+}
+>>>markdown
+11. Adjusting the data above to just compare the few years before covid to the years after covid. 
+>>>malloy
+run: offenses -> {
+    group_by: `Institution name`
+    aggregate: precovviolence is totviolent {where: `Survey year` < 2020 and `Survey year` > 2016}
+    aggregate: postcovidviolence
+    aggregate: precovidrate is percapitaviolent {where: `Survey year` < 2020 and `Survey year` > 2016}
+    aggregate: postcovidrate is percapitaviolent {where: `Survey year` > 2019}
+    aggregate: change is percapitaviolent {where: `Survey year` > 2019} - percapitaviolent {where: `Survey year` < 2020 and `Survey year` > 2016}
+    aggregate: 
+        # percent
+        pctchange is (percapitaviolent {where: `Survey year` > 2019} - percapitaviolent {where: `Survey year` < 2020 and `Survey year` > 2016})/(percapitaviolent {where: `Survey year` < 2020 and `Survey year` > 2016})
+}
+>>>markdown
+Here I wanted to evaluate violent and total crime rates before and after covid.  We can see mixed results in the effect of covid on university crime.  At UW and Seattle U (close in geography) there was a significant increase in crime, while there was actually a notable decrease in crime at all other schools.  
+>>>markdown
+DISCIPLINE ANALYSIS
+>>>markdown
+12. Disciplinary actions by school and catgory
+>>>malloy
+run: discipline -> {
+    group_by: `Institution name`
+    aggregate: totdisciplines
+    aggregate: Intoxicants
+}
+>>>markdown
+This is a known fact that Gonzag has one of the leading student discipline rates for alcohol in the US.  You can see that GU tops out all other WA schools by number, even the much larger school.  WSU, which is famous for its drinking and much larger in size that GU, has less alcohol related write-ups than Gonzaga.  It is important to note that almost all disciplinary actions against students are the result of drugs and alcohol.  
+>>>markdown
+13. Disciplinary actions per capita?
+>>>malloy
+# line_chart
+run: discipline -> {
+    group_by: `Survey year`
+    aggregate: percapita
+    group_by: `Institution name`
+    order_by: `Survey year` ASC
+    limit: 1000000
+}
+>>>markdown
+Unsurprisingly, per capita Gonzga tends to have much higher rates of disciplinary action against students than other school.  Whitman is close in recent years.  OVerall, the rate of writeups remains very steady across schools.
+>>>markdown
+14. Bar chart of disciplinary actions for drugs and alcohol by institution
+>>>malloy
+# bar_chart
+run: discipline -> {
+    group_by: `Institution name`
+    aggregate: Intoxicants
+}
+>>>markdown
+Number of writeups for intoxicants.  Gonzaga wins.
+>>>markdown
+ALL TOGETHER
+>>>markdown
+15. Total arrests, offenses and disciplinary actions together?  General trend over time.
+>>>malloy
+# line_chart
+run: discipline -> {
+    group_by: `Survey year`
+    aggregate: Incidents is arrests.totalarrests + offenses.totoffenses + totdisciplines
+    order_by: `Survey year` ASC
+    limit: 100000
+}
+>>>markdown
+This is the overall rate of offenses, disciplinary actions and arrests together.  Likely thanks to covid, the number had a sheer drop around 2020.  However, it's important to note that the number of incidents was steadily creasing for the entire period before this.
+>>>markdown
+16. Total number of all incidents by each school over the full period analyzed.
+>>>malloy
+run: discipline -> {
+    group_by: `Institution name`
+    aggregate: Incidents is arrests.totalarrests + offenses.totoffenses + totdisciplines
+    order_by: Incidents DESC
+}
+>>>markdown
+Here we can see the total aggregate of all incidents among these schools.  Gonzaga leads the pack, driven by intoxicant related write-ups.  
+>>>markdown
+17. Total incidents per capita for each of the universities analyzed over the full time period analyzed. 
+>>>malloy
+# bar_chart
+run: discipline -> {
+    group_by: `Institution name`
+    aggregate: totalincidentspercapita
+    order_by: totalincidentspercapita DESC
+}
+>>>markdown
+A bar chart showing total incidents per capita.  Like we saw in prior analysis, GU and Whitman have far more inciedents per capita than the larger schools.
+>>>markdown
+18. Which schools have the most sexual offenses reported?
+>>>malloy
+run: offenses -> {
+    group_by: `Institution name`
+    aggregate: totsexual
+    nest: bycat is {
+        aggregate: totrape is sum(Rape)
+        aggregate: totassaultviolent is sum(`Sex offenses - Forcible`)
+        aggregate: totassaultnv is sum(`Sex offenses - Non-forcible`)
+        aggregate: totfond is sum(Fondling)
+    }
+}
+>>>markdown
+UW and WSY had the most sexual assault crimes.  Rape is by far the most commonly reported sexual crime.
+>>>markdown
+19. Where is rape the most prevalent by number and per capita?
+>>>malloy
+run: offenses -> {
+    group_by: `Institution name`
+    aggregate: rapepercapita
+    
+}
+>>>markdown
+Whitman has BY FAR the highest number of rapes reported per capita.  The other schools are much closer to eachother, with Seattle U having a notably lower rate.
+>>>markdown
+20. Is there actually any documented cases of incest being prosecuted?
+>>>malloy
+run: offenses -> {
+    group_by: `Institution name`
+    aggregate: incest is sum(Incest)
+}
+>>>markdown
+There are 2 documented cases.
+>>>markdown
+21. Do schools rank similarly in sex offenses and alcohol rates?  Perhaps the two are related.
+>>>malloy
+
+run: discipline -> {
+    group_by: `Institution name`
+    aggregate: percapitaintoxicants
+    aggregate: offenses.rapepercapita
+    --aggregate: ratio is percapitaintoxicants/offenses.rapepercapita
+    
+}
+>>>markdown
+There does not appear to be a clear relationship between rape and intoxication writeups.  However, we know Gonzaga likely pursues discipline against drinking more vigorously than other schools, so will have higher number of intoxication incidents even if the true rate is the same as other institutions.
+>>>markdown
+VIOLENCE AGAINST WOMEN DATA
+>>>markdown
+22. What is the breakdown of each category of violence against women and by campus?
+>>>malloy
+run: vaw -> {
+    group_by: `Institution name`
+    aggregate: datingviolence is sum(`Dating violence`)
+    aggregate: domesticviolence is sum(`Domestic violence`)
+    aggregate: stalking is sum(Stalking)
+}
+>>>markdown
+23. General trend over time of violence against women?
+>>>malloy
+# line_chart
+run: vaw -> {
+    group_by: `Survey year`
+    aggregate: totvaw
+    -- group_by: `Institution name`
+    order_by: `Survey year` ASC
+    limit: 10000
+}
+>>>markdown
+Massive increase in reports starting in 2017 followed by a massive decrease during the pandemic.  Makes sense because of social distancing.
+>>>markdown
+24. How does this graph look if broken down per capita by school?
+>>>malloy
+# line_chart
+run: vaw -> {
+    group_by: `Survey year`
+    aggregate: vawpercapita
+    group_by: `Institution name`
+    order_by: `Survey year` ASC
+    limit: 10000
+}
+>>>markdown
+Same note as prior - big spike in 2017 followed by a big drop in 2020 during the pandemic.
+>>>markdown
+25. Where is stalking the biggest issue and it's location?
+>>>malloy
+run: vaw -> {
+    group_by: `Institution name`
+    aggregate: totstalk
+    nest: byloc is {
+        group_by: Category
+        aggregate: totstalk
+    }
+
+}
+>>>markdown
+26. How does VAW per capita compare to sexual offenses per capita at schools?
+>>>malloy
+
+run: vaw -> {
+    group_by: `Institution name`
+    aggregate: 
+        vawpercapita
+        offenses.sxcrimepercapita
+
+}
+>>>markdown
+One would expect a correlation here, but I'm not seeing it.  I wonder what the disconnect is between the crime types in the VAW data.  

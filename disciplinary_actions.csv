@@ -1,0 +1,477 @@
+Survey year,Unitid,Institution name,OPEID,Campus ID, Campus Name,Institution Size,Illegal weapons possession,Drug law violations,Liquor law violations,Category
+2001,235316,Gonzaga University,377800,1,Main Campus,4874,0,0,0,Off-campus discipline
+2001,236595,Seattle University,379000,1,Main Campus,5981,0,0,0,Off-campus discipline
+2001,236948,University of Washington-Seattle Campus,379800,1,Main Campus,37412,0,0,0,Off-campus discipline
+2001,236939,Washington State University,380000,1,Pullman Campus,21073,0,0,0,Off-campus discipline
+2001,237011,Western Washington University,380200,1,Bellingham Campus,12409,0,0,0,Off-campus discipline
+2001,237057,Whitman College,380300,1,Whitman College,1439,0,0,0,Off-campus discipline
+2002,235316,Gonzaga University,377800,1,Main Campus,5254,0,0,0,Off-campus discipline
+2002,236939,Washington State University,380000,1,Pullman Campus,21880,0,0,0,Off-campus discipline
+2002,237011,Western Washington University,380200,1,Bellingham Campus,13865,0,0,0,Off-campus discipline
+2002,237057,Whitman College,380300,1,Whitman College,1454,0,0,0,Off-campus discipline
+2003,235316,Gonzaga University,377800,1,Main Campus,5494,0,0,0,Off-campus discipline
+2003,236595,Seattle University,379000,1,Main Campus,6659,0,0,0,Off-campus discipline
+2003,236948,University of Washington-Seattle Campus,379800,1,Main Campus,39135,0,0,0,Off-campus discipline
+2003,236939,Washington State University,380000,1,Pullman Campus,22712,0,0,0,Off-campus discipline
+2003,237011,Western Washington University,380200,1,Bellingham Campus,13845,0,0,0,Off-campus discipline
+2003,237057,Whitman College,380300,1,Whitman College,1454,0,0,0,Off-campus discipline
+2004,235316,Gonzaga University,377800,1,Main Campus,5858,0,0,0,Off-campus discipline
+2004,236948,University of Washington-Seattle Campus,379800,1,Main Campus,39199,0,0,0,Off-campus discipline
+2004,236939,Washington State University,380000,1,Pullman Campus,23241,0,0,0,Off-campus discipline
+2004,237011,Western Washington University,380200,1,Bellingham Campus,14190,0,0,0,Off-campus discipline
+2004,237057,Whitman College,380300,1,Whitman College,1481,0,0,0,Off-campus discipline
+2005,235316,Gonzaga University,377800,1,Main Campus,6377,0,0,0,Off-campus discipline
+2005,236948,University of Washington-Seattle Campus,379800,1,Main Campus,39251,0,0,0,Off-campus discipline
+2005,236939,Washington State University,380000,1,Pullman Campus,23544,0,0,0,Off-campus discipline
+2005,237011,Western Washington University,380200,1,Bellingham Campus,14247,0,0,0,Off-campus discipline
+2005,237057,Whitman College,380300,1,Whitman College,1512,0,0,0,Off-campus discipline
+2006,235316,Gonzaga University,377800,1,Main Campus,6607,0,0,0,Off-campus discipline
+2006,236948,University of Washington-Seattle Campus,379800,1,Main Campus,39524,0,0,0,Off-campus discipline
+2006,236939,Washington State University,380000,1,Pullman Campus,23655,0,0,5,Off-campus discipline
+2006,237011,Western Washington University,380200,1,Bellingham Campus,14035,0,0,0,Off-campus discipline
+2006,237057,Whitman College,380300,1,Whitman College,1455,0,0,0,Off-campus discipline
+2007,235316,Gonzaga University,377800,1,Main Campus,6873,0,0,0,Off-campus discipline
+2007,236948,University of Washington-Seattle Campus,379800,1,Main Campus,40218,0,0,0,Off-campus discipline
+2007,236939,Washington State University,380000,1,Pullman Campus,24396,0,0,0,Off-campus discipline
+2007,237011,Western Washington University,380200,1,Bellingham Campus,14276,0,0,0,Off-campus discipline
+2007,237057,Whitman College,380300,1,Whitman College,1489,0,1,0,Off-campus discipline
+2008,235316,Gonzaga University,377800,1,Main Campus,7272,0,0,0,Off-campus discipline
+2008,236948,University of Washington-Seattle Campus,379800,1,Main Campus,39675,0,0,0,Off-campus discipline
+2008,236939,Washington State University,380000,1,Pullman Campus,25352,0,10,10,Off-campus discipline
+2008,237011,Western Washington University,380200,1,Bellingham Campus,14620,0,0,0,Off-campus discipline
+2008,237057,Whitman College,380300,1,Whitman College,1458,0,0,0,Off-campus discipline
+2009,235316,Gonzaga University,377800,1,Main Campus,7633,0,0,0,Off-campus discipline
+2009,236595,Seattle University,379000,1,Main Campus,7751,0,0,0,Off-campus discipline
+2009,236948,University of Washington-Seattle Campus,379800,1,Main Campus,45943,0,0,0,Off-campus discipline
+2009,236939,Washington State University,380000,1,Pullman Campus,26101,0,0,0,Off-campus discipline
+2009,237011,Western Washington University,380200,1,Bellingham Campus,14575,0,0,0,Off-campus discipline
+2009,237057,Whitman College,380300,1,Whitman College,1515,0,0,0,Off-campus discipline
+2010,235316,Gonzaga University,377800,1,Main Campus,7738,0,0,0,Off-campus discipline
+2010,236595,Seattle University,379000,1,Main Campus,7817,0,0,0,Off-campus discipline
+2010,236948,University of Washington-Seattle Campus,379800,1,Main Campus,42451,0,0,0,Off-campus discipline
+2010,236939,Washington State University,380000,1,Pullman Campus,26308,0,0,4,Off-campus discipline
+2010,237011,Western Washington University,380200,1,Bellingham Campus,14979,0,0,0,Off-campus discipline
+2010,237057,Whitman College,380300,1,Whitman College,1555,0,0,1,Off-campus discipline
+2011,235316,Gonzaga University,377800,1,Main Campus,7764,0,0,0,Off-campus discipline
+2011,236595,Seattle University,379000,1,Main Campus,7755,0,0,0,Off-campus discipline
+2011,236948,University of Washington-Seattle Campus,379800,1,Main Campus,42444,0,0,0,Off-campus discipline
+2011,236939,Washington State University,380000,1,Pullman Campus,27329,0,0,1,Off-campus discipline
+2011,237011,Western Washington University,380200,1,Bellingham Campus,14842,0,0,0,Off-campus discipline
+2011,237057,Whitman College,380300,1,Whitman College,1596,0,0,0,Off-campus discipline
+2012,235316,Gonzaga University,377800,1,Main Campus,7781,0,0,0,Off-campus discipline
+2012,236595,Seattle University,379000,1,Main Campus,7484,0,0,0,Off-campus discipline
+2012,236948,University of Washington-Seattle Campus,379800,1,Main Campus,43485,0,0,37,Off-campus discipline
+2012,236939,Washington State University,380000,1,Pullman Campus,27679,2,1,0,Off-campus discipline
+2012,237011,Western Washington University,380200,1,Bellingham Campus,14833,0,0,0,Off-campus discipline
+2012,237057,Whitman College,380300,1,Whitman College,1539,0,0,8,Off-campus discipline
+2013,235316,Gonzaga University,377800,1,Main Campus,7605,0,0,0,Off-campus discipline
+2013,236595,Seattle University,379000,1,Main Campus,7422,0,0,0,Off-campus discipline
+2013,236948,University of Washington-Seattle Campus,379800,1,Main Campus,43762,0,0,0,Off-campus discipline
+2013,236939,Washington State University,380000,1,Pullman Campus,27642,0,0,0,Off-campus discipline
+2013,237011,Western Washington University,380200,1,Bellingham Campus,14950,0,0,0,Off-campus discipline
+2013,237057,Whitman College,380300,1,Whitman College,1541,0,0,0,Off-campus discipline
+2014,235316,Gonzaga University,377800,1,Main Campus,7352,0,0,0,Off-campus discipline
+2014,236948,University of Washington-Seattle Campus,379800,1,Main Campus,44784,0,0,0,Off-campus discipline
+2014,236939,Washington State University,380000,1,Pullman Campus,28686,0,0,0,Off-campus discipline
+2014,237011,Western Washington University,380200,1,Bellingham Campus,15060,0,0,0,Off-campus discipline
+2014,237057,Whitman College,380300,1,Whitman College,1498,0,0,2,Off-campus discipline
+2015,235316,Gonzaga University,377800,1,Main Campus,7491,0,0,0,Off-campus discipline
+2015,236595,Seattle University,379000,1,Main Campus,7405,0,0,0,Off-campus discipline
+2015,236948,University of Washington-Seattle Campus,379800,1,Main Campus,45408,0,0,0,Off-campus discipline
+2015,236939,Washington State University,380000,1,Pullman Campus,29686,0,0,0,Off-campus discipline
+2015,237011,Western Washington University,380200,1,Bellingham Campus,15332,0,0,0,Off-campus discipline
+2015,237057,Whitman College,380300,1,Whitman College,1470,0,3,4,Off-campus discipline
+2016,235316,Gonzaga University,377800,1,Main Campus,7567,0,0,1,Off-campus discipline
+2016,236948,University of Washington-Seattle Campus,379800,1,Main Campus,45591,0,0,0,Off-campus discipline
+2016,236939,Washington State University,380000,1,Pullman Campus,30142,0,0,0,Off-campus discipline
+2016,237011,Western Washington University,380200,1,Bellingham Campus,15574,0,0,0,Off-campus discipline
+2016,237057,Whitman College,380300,1,Whitman College,1493,0,6,1,Off-campus discipline
+2017,235316,Gonzaga University,377800,1,Main Campus,7506,0,0,0,Off-campus discipline
+2017,236948,University of Washington-Seattle Campus,379800,1,Main Campus,46166,0,0,27,Off-campus discipline
+2017,236939,Washington State University,380000,1,Pullman Campus,30614,0,0,2,Off-campus discipline
+2017,237011,Western Washington University,380200,1,Bellingham Campus,15915,0,0,0,Off-campus discipline
+2017,237057,Whitman College,380300,1,Whitman College,1510,0,0,0,Off-campus discipline
+2018,235316,Gonzaga University,377800,1,Main Campus,7563,0,0,0,Off-campus discipline
+2018,236948,University of Washington-Seattle Campus,379800,1,Main Campus,47400,0,4,87,Off-campus discipline
+2018,236939,Washington State University,380000,1,Pullman Campus,31478,0,0,0,Off-campus discipline
+2018,237011,Western Washington University,380200,1,Bellingham Campus,16121,0,0,0,Off-campus discipline
+2018,237057,Whitman College,380300,1,Whitman College,1475,1,0,0,Off-campus discipline
+2019,235316,Gonzaga University,377800,1,Main Campus,7537,0,0,0,Off-campus discipline
+2019,236948,University of Washington-Seattle Campus,379800,1,Main Campus,47576,0,0,5,Off-campus discipline
+2019,236939,Washington State University,380000,1,Pullman Campus,31607,0,0,1,Off-campus discipline
+2019,237011,Western Washington University,380200,1,Bellingham Campus,16142,0,0,0,Off-campus discipline
+2019,237057,Whitman College,380300,1,Whitman College,1579,0,0,0,Off-campus discipline
+2020,235316,Gonzaga University,377800,1,Main Campus,7295,0,0,0,Off-campus discipline
+2020,236948,University of Washington-Seattle Campus,379800,1,Main Campus,48149,0,0,3,Off-campus discipline
+2020,236939,Washington State University,380000,1,Pullman Campus,31159,0,0,2,Off-campus discipline
+2020,237011,Western Washington University,380200,1,Bellingham Campus,15197,0,0,0,Off-campus discipline
+2020,237057,Whitman College,380300,1,Whitman College,1360,0,0,0,Off-campus discipline
+2021,235316,Gonzaga University,377800,1,Main Campus,7381,0,0,0,Off-campus discipline
+2021,236948,University of Washington-Seattle Campus,379800,1,Main Campus,52434,0,0,7,Off-campus discipline
+2021,236939,Washington State University,380000,1,Pullman Campus,29843,0,0,3,Off-campus discipline
+2021,237011,Western Washington University,380200,1,Bellingham Campus,15125,0,0,0,Off-campus discipline
+2021,237057,Whitman College,380300,1,Whitman College,1559,0,0,0,Off-campus discipline
+2022,235316,Gonzaga University,377800,1,Main Campus,7253,0,0,0,Off-campus discipline
+2022,236595,Seattle University,379000,1,Main Campus,7121,0,0,0,Off-campus discipline
+2022,236948,University of Washington-Seattle Campus,379800,1,Main Campus,52319,0,0,0,Off-campus discipline
+2022,236939,Washington State University,380000,1,Pullman Campus,27539,0,0,0,Off-campus discipline
+2022,237011,Western Washington University,380200,1,Bellingham Campus,14747,0,0,0,Off-campus discipline
+2022,237057,Whitman College,380300,1,Whitman College,1493,0,0,0,Off-campus discipline
+2001,235316,Gonzaga University,377800,1,Main Campus,4874,1,7,387,On-campus discipline
+2001,236595,Seattle University,379000,1,Main Campus,5981,2,27,77,On-campus discipline
+2001,236948,University of Washington-Seattle Campus,379800,1,Main Campus,37412,1,71,349,On-campus discipline
+2001,236939,Washington State University,380000,1,Pullman Campus,21073,5,47,448,On-campus discipline
+2001,237011,Western Washington University,380200,1,Bellingham Campus,12409,2,120,681,On-campus discipline
+2001,237057,Whitman College,380300,1,Whitman College,1439,0,15,26,On-campus discipline
+2002,235316,Gonzaga University,377800,1,Main Campus,5254,0,36,446,On-campus discipline
+2002,236595,Seattle University,379000,1,Main Campus,6270,0,28,126,On-campus discipline
+2002,236948,University of Washington-Seattle Campus,379800,1,Main Campus,39882,0,49,368,On-campus discipline
+2002,236939,Washington State University,380000,1,Pullman Campus,21880,4,107,704,On-campus discipline
+2002,237011,Western Washington University,380200,1,Bellingham Campus,13865,0,80,614,On-campus discipline
+2002,237057,Whitman College,380300,1,Whitman College,1454,0,14,24,On-campus discipline
+2003,235316,Gonzaga University,377800,1,Main Campus,5494,0,36,409,On-campus discipline
+2003,236595,Seattle University,379000,1,Main Campus,6659,1,17,222,On-campus discipline
+2003,236948,University of Washington-Seattle Campus,379800,1,Main Campus,39135,0,40,402,On-campus discipline
+2003,236939,Washington State University,380000,1,Pullman Campus,22712,14,96,843,On-campus discipline
+2003,237011,Western Washington University,380200,1,Bellingham Campus,13845,6,96,728,On-campus discipline
+2003,237057,Whitman College,380300,1,Whitman College,1454,0,26,18,On-campus discipline
+2004,235316,Gonzaga University,377800,1,Main Campus,5858,0,21,478,On-campus discipline
+2004,236595,Seattle University,379000,1,Main Campus,6810,1,32,225,On-campus discipline
+2004,236948,University of Washington-Seattle Campus,379800,1,Main Campus,39199,6,45,322,On-campus discipline
+2004,236939,Washington State University,380000,1,Pullman Campus,23241,22,136,1020,On-campus discipline
+2004,237011,Western Washington University,380200,1,Bellingham Campus,14190,3,76,543,On-campus discipline
+2004,237057,Whitman College,380300,1,Whitman College,1481,0,12,9,On-campus discipline
+2005,235316,Gonzaga University,377800,1,Main Campus,6377,1,8,605,On-campus discipline
+2005,236595,Seattle University,379000,1,Main Campus,7109,0,30,268,On-campus discipline
+2005,236948,University of Washington-Seattle Campus,379800,1,Main Campus,39251,0,36,313,On-campus discipline
+2005,236939,Washington State University,380000,1,Pullman Campus,23544,7,82,674,On-campus discipline
+2005,237011,Western Washington University,380200,1,Bellingham Campus,14247,3,80,525,On-campus discipline
+2005,237057,Whitman College,380300,1,Whitman College,1512,0,11,5,On-campus discipline
+2006,235316,Gonzaga University,377800,1,Main Campus,6607,3,25,482,On-campus discipline
+2006,236595,Seattle University,379000,1,Main Campus,7226,0,28,229,On-campus discipline
+2006,236948,University of Washington-Seattle Campus,379800,1,Main Campus,39524,0,38,371,On-campus discipline
+2006,236939,Washington State University,380000,1,Pullman Campus,23655,12,115,580,On-campus discipline
+2006,237011,Western Washington University,380200,1,Bellingham Campus,14035,7,84,466,On-campus discipline
+2006,237057,Whitman College,380300,1,Whitman College,1455,0,6,5,On-campus discipline
+2007,235316,Gonzaga University,377800,1,Main Campus,6873,0,12,335,On-campus discipline
+2007,236595,Seattle University,379000,1,Main Campus,7529,0,21,232,On-campus discipline
+2007,236948,University of Washington-Seattle Campus,379800,1,Main Campus,40218,0,57,375,On-campus discipline
+2007,236939,Washington State University,380000,1,Pullman Campus,24396,11,156,836,On-campus discipline
+2007,237011,Western Washington University,380200,1,Bellingham Campus,14276,7,98,655,On-campus discipline
+2007,237057,Whitman College,380300,1,Whitman College,1489,0,14,32,On-campus discipline
+2008,235316,Gonzaga University,377800,1,Main Campus,7272,2,11,379,On-campus discipline
+2008,236595,Seattle University,379000,1,Main Campus,7560,6,24,163,On-campus discipline
+2008,236948,University of Washington-Seattle Campus,379800,1,Main Campus,39675,0,75,289,On-campus discipline
+2008,236939,Washington State University,380000,1,Pullman Campus,25352,3,59,808,On-campus discipline
+2008,237011,Western Washington University,380200,1,Bellingham Campus,14620,2,268,401,On-campus discipline
+2008,237057,Whitman College,380300,1,Whitman College,1458,0,7,24,On-campus discipline
+2009,235316,Gonzaga University,377800,1,Main Campus,7633,0,47,754,On-campus discipline
+2009,236595,Seattle University,379000,1,Main Campus,7751,1,28,125,On-campus discipline
+2009,236948,University of Washington-Seattle Campus,379800,1,Main Campus,45943,2,79,405,On-campus discipline
+2009,236939,Washington State University,380000,1,Pullman Campus,26101,4,45,808,On-campus discipline
+2009,237011,Western Washington University,380200,1,Bellingham Campus,14575,0,133,340,On-campus discipline
+2009,237057,Whitman College,380300,1,Whitman College,1515,0,30,25,On-campus discipline
+2010,235316,Gonzaga University,377800,1,Main Campus,7738,0,71,523,On-campus discipline
+2010,236595,Seattle University,379000,1,Main Campus,7817,0,37,173,On-campus discipline
+2010,236948,University of Washington-Seattle Campus,379800,1,Main Campus,42451,1,76,327,On-campus discipline
+2010,236939,Washington State University,380000,1,Pullman Campus,26308,4,213,639,On-campus discipline
+2010,237011,Western Washington University,380200,1,Bellingham Campus,14979,0,83,242,On-campus discipline
+2010,237057,Whitman College,380300,1,Whitman College,1555,0,17,26,On-campus discipline
+2011,235316,Gonzaga University,377800,1,Main Campus,7764,0,75,690,On-campus discipline
+2011,236595,Seattle University,379000,1,Main Campus,7755,2,60,278,On-campus discipline
+2011,236948,University of Washington-Seattle Campus,379800,1,Main Campus,42444,0,185,473,On-campus discipline
+2011,236939,Washington State University,380000,1,Pullman Campus,27329,5,194,804,On-campus discipline
+2011,237011,Western Washington University,380200,1,Bellingham Campus,14842,0,170,248,On-campus discipline
+2011,237057,Whitman College,380300,1,Whitman College,1596,0,10,12,On-campus discipline
+2012,235316,Gonzaga University,377800,1,Main Campus,7781,0,34,517,On-campus discipline
+2012,236595,Seattle University,379000,1,Main Campus,7484,0,99,105,On-campus discipline
+2012,236948,University of Washington-Seattle Campus,379800,1,Main Campus,43485,3,187,539,On-campus discipline
+2012,236939,Washington State University,380000,1,Pullman Campus,27679,0,190,863,On-campus discipline
+2012,237011,Western Washington University,380200,1,Bellingham Campus,14833,0,204,413,On-campus discipline
+2012,237057,Whitman College,380300,1,Whitman College,1539,1,55,36,On-campus discipline
+2013,235316,Gonzaga University,377800,1,Main Campus,7605,5,45,699,On-campus discipline
+2013,236595,Seattle University,379000,1,Main Campus,7422,0,139,205,On-campus discipline
+2013,236948,University of Washington-Seattle Campus,379800,1,Main Campus,43762,1,259,620,On-campus discipline
+2013,236939,Washington State University,380000,1,Pullman Campus,27642,2,117,442,On-campus discipline
+2013,237011,Western Washington University,380200,1,Bellingham Campus,14950,0,181,331,On-campus discipline
+2013,237057,Whitman College,380300,1,Whitman College,1541,0,31,29,On-campus discipline
+2014,235316,Gonzaga University,377800,1,Main Campus,7352,1,63,764,On-campus discipline
+2014,236595,Seattle University,379000,1,Main Campus,7273,0,68,143,On-campus discipline
+2014,236948,University of Washington-Seattle Campus,379800,1,Main Campus,44784,0,145,593,On-campus discipline
+2014,236939,Washington State University,380000,1,Pullman Campus,28686,2,318,299,On-campus discipline
+2014,237011,Western Washington University,380200,1,Bellingham Campus,15060,1,235,387,On-campus discipline
+2014,237057,Whitman College,380300,1,Whitman College,1498,0,52,49,On-campus discipline
+2015,235316,Gonzaga University,377800,1,Main Campus,7491,1,52,773,On-campus discipline
+2015,236595,Seattle University,379000,1,Main Campus,7405,2,67,169,On-campus discipline
+2015,236948,University of Washington-Seattle Campus,379800,1,Main Campus,45408,0,128,595,On-campus discipline
+2015,236939,Washington State University,380000,1,Pullman Campus,29686,0,335,272,On-campus discipline
+2015,237011,Western Washington University,380200,1,Bellingham Campus,15332,1,184,274,On-campus discipline
+2015,237057,Whitman College,380300,1,Whitman College,1470,0,39,38,On-campus discipline
+2016,235316,Gonzaga University,377800,1,Main Campus,7567,0,80,805,On-campus discipline
+2016,236595,Seattle University,379000,1,Main Campus,7487,0,133,240,On-campus discipline
+2016,236595,Seattle University,379000,2,Eastside Campus,7487,0,0,0,On-campus discipline
+2016,236948,University of Washington-Seattle Campus,379800,1,Main Campus,45591,0,74,404,On-campus discipline
+2016,236939,Washington State University,380000,1,Pullman Campus,30142,1,246,390,On-campus discipline
+2016,237011,Western Washington University,380200,1,Bellingham Campus,15574,0,195,340,On-campus discipline
+2016,237057,Whitman College,380300,1,Whitman College,1493,0,51,27,On-campus discipline
+2017,235316,Gonzaga University,377800,1,Main Campus,7506,0,115,626,On-campus discipline
+2017,236595,Seattle University,379000,1,Main Campus,7278,0,172,282,On-campus discipline
+2017,236595,Seattle University,379000,2,Eastside Campus,7278,0,0,0,On-campus discipline
+2017,236948,University of Washington-Seattle Campus,379800,1,Main Campus,46166,0,123,433,On-campus discipline
+2017,236939,Washington State University,380000,1,Pullman Campus,30614,0,333,234,On-campus discipline
+2017,237011,Western Washington University,380200,1,Bellingham Campus,15915,0,213,400,On-campus discipline
+2017,237057,Whitman College,380300,1,Whitman College,1510,0,52,128,On-campus discipline
+2018,235316,Gonzaga University,377800,1,Main Campus,7563,0,80,503,On-campus discipline
+2018,236595,Seattle University,379000,1,Main Campus,7291,0,140,213,On-campus discipline
+2018,236948,University of Washington-Seattle Campus,379800,1,Main Campus,47400,0,314,647,On-campus discipline
+2018,236939,Washington State University,380000,1,Pullman Campus,31478,0,322,252,On-campus discipline
+2018,237011,Western Washington University,380200,1,Bellingham Campus,16121,0,163,275,On-campus discipline
+2018,237057,Whitman College,380300,1,Whitman College,1475,0,36,185,On-campus discipline
+2019,235316,Gonzaga University,377800,1,Main Campus,7537,1,86,743,On-campus discipline
+2019,236595,Seattle University,379000,1,Main Campus,7199,0,95,169,On-campus discipline
+2019,236948,University of Washington-Seattle Campus,379800,1,Main Campus,47576,1,146,498,On-campus discipline
+2019,236939,Washington State University,380000,1,Pullman Campus,31607,0,333,222,On-campus discipline
+2019,237011,Western Washington University,380200,1,Bellingham Campus,16142,0,157,251,On-campus discipline
+2019,237057,Whitman College,380300,1,Whitman College,1579,0,30,172,On-campus discipline
+2020,235316,Gonzaga University,377800,1,Main Campus,7295,0,77,393,On-campus discipline
+2020,236595,Seattle University,379000,1,Main Campus,7050,0,39,78,On-campus discipline
+2020,236948,University of Washington-Seattle Campus,379800,1,Main Campus,48149,0,48,222,On-campus discipline
+2020,236939,Washington State University,380000,1,Pullman Campus,31159,0,135,127,On-campus discipline
+2020,237011,Western Washington University,380200,1,Bellingham Campus,15197,1,107,109,On-campus discipline
+2020,237057,Whitman College,380300,1,Whitman College,1360,0,29,62,On-campus discipline
+2021,235316,Gonzaga University,377800,1,Main Campus,7381,1,95,522,On-campus discipline
+2021,236595,Seattle University,379000,1,Main Campus,7268,1,28,57,On-campus discipline
+2021,236948,University of Washington-Seattle Campus,379800,1,Main Campus,52434,0,41,128,On-campus discipline
+2021,236939,Washington State University,380000,1,Pullman Campus,29843,0,101,307,On-campus discipline
+2021,237011,Western Washington University,380200,1,Bellingham Campus,15125,0,78,151,On-campus discipline
+2021,237057,Whitman College,380300,1,Whitman College,1559,0,7,79,On-campus discipline
+2022,235316,Gonzaga University,377800,1,Main Campus,7253,0,36,428,On-campus discipline
+2022,236595,Seattle University,379000,1,Main Campus,7121,3,51,110,On-campus discipline
+2022,236948,University of Washington-Seattle Campus,379800,1,Main Campus,52319,0,44,116,On-campus discipline
+2022,236939,Washington State University,380000,1,Pullman Campus,27539,0,29,196,On-campus discipline
+2022,237011,Western Washington University,380200,1,Bellingham Campus,14747,0,104,235,On-campus discipline
+2022,237057,Whitman College,380300,1,Whitman College,1493,0,9,92,On-campus discipline
+2001,235316,Gonzaga University,377800,1,Main Campus,4874,0,0,2,Public discipline
+2001,236595,Seattle University,379000,1,Main Campus,5981,0,0,0,Public discipline
+2001,236948,University of Washington-Seattle Campus,379800,1,Main Campus,37412,0,0,0,Public discipline
+2001,236939,Washington State University,380000,1,Pullman Campus,21073,0,0,0,Public discipline
+2001,237011,Western Washington University,380200,1,Bellingham Campus,12409,0,0,0,Public discipline
+2001,237057,Whitman College,380300,1,Whitman College,1439,0,0,0,Public discipline
+2002,235316,Gonzaga University,377800,1,Main Campus,5254,0,0,3,Public discipline
+2002,236595,Seattle University,379000,1,Main Campus,6270,0,0,0,Public discipline
+2002,236948,University of Washington-Seattle Campus,379800,1,Main Campus,39882,0,0,0,Public discipline
+2002,236939,Washington State University,380000,1,Pullman Campus,21880,0,0,0,Public discipline
+2002,237011,Western Washington University,380200,1,Bellingham Campus,13865,0,0,0,Public discipline
+2002,237057,Whitman College,380300,1,Whitman College,1454,0,0,0,Public discipline
+2003,235316,Gonzaga University,377800,1,Main Campus,5494,0,0,2,Public discipline
+2003,236595,Seattle University,379000,1,Main Campus,6659,0,0,0,Public discipline
+2003,236948,University of Washington-Seattle Campus,379800,1,Main Campus,39135,0,0,0,Public discipline
+2003,236939,Washington State University,380000,1,Pullman Campus,22712,0,0,0,Public discipline
+2003,237011,Western Washington University,380200,1,Bellingham Campus,13845,0,0,9,Public discipline
+2003,237057,Whitman College,380300,1,Whitman College,1454,0,0,0,Public discipline
+2004,235316,Gonzaga University,377800,1,Main Campus,5858,0,0,3,Public discipline
+2004,236595,Seattle University,379000,1,Main Campus,6810,0,0,0,Public discipline
+2004,236948,University of Washington-Seattle Campus,379800,1,Main Campus,39199,0,0,0,Public discipline
+2004,236939,Washington State University,380000,1,Pullman Campus,23241,0,0,0,Public discipline
+2004,237011,Western Washington University,380200,1,Bellingham Campus,14190,0,0,0,Public discipline
+2004,237057,Whitman College,380300,1,Whitman College,1481,0,0,0,Public discipline
+2005,235316,Gonzaga University,377800,1,Main Campus,6377,0,0,8,Public discipline
+2005,236595,Seattle University,379000,1,Main Campus,7109,0,0,0,Public discipline
+2005,236948,University of Washington-Seattle Campus,379800,1,Main Campus,39251,0,0,0,Public discipline
+2005,236939,Washington State University,380000,1,Pullman Campus,23544,0,0,0,Public discipline
+2005,237011,Western Washington University,380200,1,Bellingham Campus,14247,0,0,0,Public discipline
+2005,237057,Whitman College,380300,1,Whitman College,1512,0,0,0,Public discipline
+2006,235316,Gonzaga University,377800,1,Main Campus,6607,0,0,25,Public discipline
+2006,236595,Seattle University,379000,1,Main Campus,7226,0,0,0,Public discipline
+2006,236948,University of Washington-Seattle Campus,379800,1,Main Campus,39524,0,0,0,Public discipline
+2006,236939,Washington State University,380000,1,Pullman Campus,23655,0,0,0,Public discipline
+2006,237011,Western Washington University,380200,1,Bellingham Campus,14035,0,0,0,Public discipline
+2006,237057,Whitman College,380300,1,Whitman College,1455,0,0,0,Public discipline
+2007,235316,Gonzaga University,377800,1,Main Campus,6873,0,0,14,Public discipline
+2007,236595,Seattle University,379000,1,Main Campus,7529,0,0,0,Public discipline
+2007,236948,University of Washington-Seattle Campus,379800,1,Main Campus,40218,0,0,0,Public discipline
+2007,236939,Washington State University,380000,1,Pullman Campus,24396,0,0,0,Public discipline
+2007,237011,Western Washington University,380200,1,Bellingham Campus,14276,0,0,0,Public discipline
+2007,237057,Whitman College,380300,1,Whitman College,1489,0,0,0,Public discipline
+2008,235316,Gonzaga University,377800,1,Main Campus,7272,0,1,8,Public discipline
+2008,236595,Seattle University,379000,1,Main Campus,7560,0,0,0,Public discipline
+2008,236948,University of Washington-Seattle Campus,379800,1,Main Campus,39675,0,0,0,Public discipline
+2008,236939,Washington State University,380000,1,Pullman Campus,25352,0,14,119,Public discipline
+2008,237011,Western Washington University,380200,1,Bellingham Campus,14620,0,0,0,Public discipline
+2008,237057,Whitman College,380300,1,Whitman College,1458,0,0,0,Public discipline
+2009,235316,Gonzaga University,377800,1,Main Campus,7633,0,0,3,Public discipline
+2009,236595,Seattle University,379000,1,Main Campus,7751,0,0,0,Public discipline
+2009,236948,University of Washington-Seattle Campus,379800,1,Main Campus,45943,0,0,0,Public discipline
+2009,236939,Washington State University,380000,1,Pullman Campus,26101,0,0,0,Public discipline
+2009,237011,Western Washington University,380200,1,Bellingham Campus,14575,0,0,0,Public discipline
+2009,237057,Whitman College,380300,1,Whitman College,1515,0,0,0,Public discipline
+2010,235316,Gonzaga University,377800,1,Main Campus,7738,0,0,9,Public discipline
+2010,236595,Seattle University,379000,1,Main Campus,7817,0,0,0,Public discipline
+2010,236948,University of Washington-Seattle Campus,379800,1,Main Campus,42451,0,0,0,Public discipline
+2010,236939,Washington State University,380000,1,Pullman Campus,26308,0,10,14,Public discipline
+2010,237011,Western Washington University,380200,1,Bellingham Campus,14979,0,0,0,Public discipline
+2010,237057,Whitman College,380300,1,Whitman College,1555,0,0,0,Public discipline
+2011,235316,Gonzaga University,377800,1,Main Campus,7764,0,1,4,Public discipline
+2011,236595,Seattle University,379000,1,Main Campus,7755,0,0,0,Public discipline
+2011,236948,University of Washington-Seattle Campus,379800,1,Main Campus,42444,0,0,0,Public discipline
+2011,236939,Washington State University,380000,1,Pullman Campus,27329,0,7,6,Public discipline
+2011,237011,Western Washington University,380200,1,Bellingham Campus,14842,0,0,0,Public discipline
+2011,237057,Whitman College,380300,1,Whitman College,1596,0,0,0,Public discipline
+2012,235316,Gonzaga University,377800,1,Main Campus,7781,0,0,0,Public discipline
+2012,236595,Seattle University,379000,1,Main Campus,7484,0,0,1,Public discipline
+2012,236948,University of Washington-Seattle Campus,379800,1,Main Campus,43485,0,0,0,Public discipline
+2012,236939,Washington State University,380000,1,Pullman Campus,27679,0,1,7,Public discipline
+2012,237011,Western Washington University,380200,1,Bellingham Campus,14833,0,8,11,Public discipline
+2012,237057,Whitman College,380300,1,Whitman College,1539,0,0,1,Public discipline
+2013,235316,Gonzaga University,377800,1,Main Campus,7605,0,0,0,Public discipline
+2013,236595,Seattle University,379000,1,Main Campus,7422,0,0,0,Public discipline
+2013,236948,University of Washington-Seattle Campus,379800,1,Main Campus,43762,0,1,0,Public discipline
+2013,236939,Washington State University,380000,1,Pullman Campus,27642,0,2,0,Public discipline
+2013,237011,Western Washington University,380200,1,Bellingham Campus,14950,0,0,1,Public discipline
+2013,237057,Whitman College,380300,1,Whitman College,1541,0,0,1,Public discipline
+2014,235316,Gonzaga University,377800,1,Main Campus,7352,0,0,0,Public discipline
+2014,236595,Seattle University,379000,1,Main Campus,7273,0,3,0,Public discipline
+2014,236948,University of Washington-Seattle Campus,379800,1,Main Campus,44784,0,0,0,Public discipline
+2014,236939,Washington State University,380000,1,Pullman Campus,28686,0,0,0,Public discipline
+2014,237011,Western Washington University,380200,1,Bellingham Campus,15060,0,0,0,Public discipline
+2014,237057,Whitman College,380300,1,Whitman College,1498,0,5,0,Public discipline
+2015,235316,Gonzaga University,377800,1,Main Campus,7491,0,0,0,Public discipline
+2015,236595,Seattle University,379000,1,Main Campus,7405,0,2,0,Public discipline
+2015,236948,University of Washington-Seattle Campus,379800,1,Main Campus,45408,0,0,0,Public discipline
+2015,236939,Washington State University,380000,1,Pullman Campus,29686,0,0,0,Public discipline
+2015,237011,Western Washington University,380200,1,Bellingham Campus,15332,0,0,3,Public discipline
+2015,237057,Whitman College,380300,1,Whitman College,1470,0,0,4,Public discipline
+2016,235316,Gonzaga University,377800,1,Main Campus,7567,0,0,1,Public discipline
+2016,236595,Seattle University,379000,1,Main Campus,7487,0,0,0,Public discipline
+2016,236595,Seattle University,379000,2,Eastside Campus,7487,0,0,0,Public discipline
+2016,236948,University of Washington-Seattle Campus,379800,1,Main Campus,45591,0,0,0,Public discipline
+2016,236939,Washington State University,380000,1,Pullman Campus,30142,0,0,0,Public discipline
+2016,237011,Western Washington University,380200,1,Bellingham Campus,15574,0,0,0,Public discipline
+2016,237057,Whitman College,380300,1,Whitman College,1493,0,0,1,Public discipline
+2017,235316,Gonzaga University,377800,1,Main Campus,7506,0,0,4,Public discipline
+2017,236595,Seattle University,379000,1,Main Campus,7278,0,0,0,Public discipline
+2017,236595,Seattle University,379000,2,Eastside Campus,7278,0,0,0,Public discipline
+2017,236948,University of Washington-Seattle Campus,379800,1,Main Campus,46166,0,3,8,Public discipline
+2017,236939,Washington State University,380000,1,Pullman Campus,30614,0,0,0,Public discipline
+2017,237011,Western Washington University,380200,1,Bellingham Campus,15915,0,6,3,Public discipline
+2017,237057,Whitman College,380300,1,Whitman College,1510,0,0,0,Public discipline
+2018,235316,Gonzaga University,377800,1,Main Campus,7563,0,1,9,Public discipline
+2018,236595,Seattle University,379000,1,Main Campus,7291,0,1,9,Public discipline
+2018,236948,University of Washington-Seattle Campus,379800,1,Main Campus,47400,0,0,0,Public discipline
+2018,236939,Washington State University,380000,1,Pullman Campus,31478,0,9,0,Public discipline
+2018,237011,Western Washington University,380200,1,Bellingham Campus,16121,0,0,0,Public discipline
+2018,237057,Whitman College,380300,1,Whitman College,1475,0,0,0,Public discipline
+2019,235316,Gonzaga University,377800,1,Main Campus,7537,0,2,1,Public discipline
+2019,236595,Seattle University,379000,1,Main Campus,7199,0,1,6,Public discipline
+2019,236948,University of Washington-Seattle Campus,379800,1,Main Campus,47576,0,0,0,Public discipline
+2019,236939,Washington State University,380000,1,Pullman Campus,31607,0,0,0,Public discipline
+2019,237011,Western Washington University,380200,1,Bellingham Campus,16142,0,1,0,Public discipline
+2019,237057,Whitman College,380300,1,Whitman College,1579,0,0,0,Public discipline
+2020,235316,Gonzaga University,377800,1,Main Campus,7295,0,5,0,Public discipline
+2020,236595,Seattle University,379000,1,Main Campus,7050,0,0,0,Public discipline
+2020,236948,University of Washington-Seattle Campus,379800,1,Main Campus,48149,0,0,0,Public discipline
+2020,236939,Washington State University,380000,1,Pullman Campus,31159,0,0,0,Public discipline
+2020,237011,Western Washington University,380200,1,Bellingham Campus,15197,0,0,0,Public discipline
+2020,237057,Whitman College,380300,1,Whitman College,1360,0,0,0,Public discipline
+2021,235316,Gonzaga University,377800,1,Main Campus,7381,0,0,3,Public discipline
+2021,236595,Seattle University,379000,1,Main Campus,7268,0,0,0,Public discipline
+2021,236948,University of Washington-Seattle Campus,379800,1,Main Campus,52434,0,0,0,Public discipline
+2021,236939,Washington State University,380000,1,Pullman Campus,29843,0,0,0,Public discipline
+2021,237011,Western Washington University,380200,1,Bellingham Campus,15125,0,0,0,Public discipline
+2021,237057,Whitman College,380300,1,Whitman College,1559,0,0,0,Public discipline
+2022,235316,Gonzaga University,377800,1,Main Campus,7253,0,0,1,Public discipline
+2022,236595,Seattle University,379000,1,Main Campus,7121,0,0,0,Public discipline
+2022,236948,University of Washington-Seattle Campus,379800,1,Main Campus,52319,0,0,0,Public discipline
+2022,236939,Washington State University,380000,1,Pullman Campus,27539,0,0,1,Public discipline
+2022,237011,Western Washington University,380200,1,Bellingham Campus,14747,0,0,0,Public discipline
+2022,237057,Whitman College,380300,1,Whitman College,1493,0,0,0,Public discipline
+2008,235316,Gonzaga University,377800,1,Main Campus,7272,2,7,370,On-campus housing discipline
+2008,236595,Seattle University,379000,1,Main Campus,7560,6,24,86,On-campus housing discipline
+2008,236948,University of Washington-Seattle Campus,379800,1,Main Campus,39675,0,56,246,On-campus housing discipline
+2008,236939,Washington State University,380000,1,Pullman Campus,25352,3,29,466,On-campus housing discipline
+2008,237011,Western Washington University,380200,1,Bellingham Campus,14620,2,212,329,On-campus housing discipline
+2008,237057,Whitman College,380300,1,Whitman College,1458,0,4,12,On-campus housing discipline
+2009,235316,Gonzaga University,377800,1,Main Campus,7633,0,47,736,On-campus housing discipline
+2009,236595,Seattle University,379000,1,Main Campus,7751,1,28,125,On-campus housing discipline
+2009,236948,University of Washington-Seattle Campus,379800,1,Main Campus,45943,2,50,370,On-campus housing discipline
+2009,236939,Washington State University,380000,1,Pullman Campus,26101,4,40,474,On-campus housing discipline
+2009,237011,Western Washington University,380200,1,Bellingham Campus,14575,0,117,314,On-campus housing discipline
+2009,237057,Whitman College,380300,1,Whitman College,1515,0,26,16,On-campus housing discipline
+2010,235316,Gonzaga University,377800,1,Main Campus,7738,0,71,493,On-campus housing discipline
+2010,236595,Seattle University,379000,1,Main Campus,7817,0,37,173,On-campus housing discipline
+2010,236948,University of Washington-Seattle Campus,379800,1,Main Campus,42451,0,67,297,On-campus housing discipline
+2010,236939,Washington State University,380000,1,Pullman Campus,26308,2,41,391,On-campus housing discipline
+2010,237011,Western Washington University,380200,1,Bellingham Campus,14979,0,81,239,On-campus housing discipline
+2010,237057,Whitman College,380300,1,Whitman College,1555,0,13,19,On-campus housing discipline
+2011,235316,Gonzaga University,377800,1,Main Campus,7764,0,71,681,On-campus housing discipline
+2011,236595,Seattle University,379000,1,Main Campus,7755,2,44,270,On-campus housing discipline
+2011,236948,University of Washington-Seattle Campus,379800,1,Main Campus,42444,0,177,447,On-campus housing discipline
+2011,236939,Washington State University,380000,1,Pullman Campus,27329,0,49,299,On-campus housing discipline
+2011,237011,Western Washington University,380200,1,Bellingham Campus,14842,0,154,243,On-campus housing discipline
+2011,237057,Whitman College,380300,1,Whitman College,1596,0,9,12,On-campus housing discipline
+2012,235316,Gonzaga University,377800,1,Main Campus,7781,0,34,497,On-campus housing discipline
+2012,236595,Seattle University,379000,1,Main Campus,7484,0,93,94,On-campus housing discipline
+2012,236948,University of Washington-Seattle Campus,379800,1,Main Campus,43485,1,186,539,On-campus housing discipline
+2012,236939,Washington State University,380000,1,Pullman Campus,27679,0,42,224,On-campus housing discipline
+2012,237011,Western Washington University,380200,1,Bellingham Campus,14833,0,196,402,On-campus housing discipline
+2012,237057,Whitman College,380300,1,Whitman College,1539,0,48,32,On-campus housing discipline
+2013,235316,Gonzaga University,377800,1,Main Campus,7605,3,43,676,On-campus housing discipline
+2013,236595,Seattle University,379000,1,Main Campus,7422,0,129,201,On-campus housing discipline
+2013,236948,University of Washington-Seattle Campus,379800,1,Main Campus,43762,0,243,600,On-campus housing discipline
+2013,236939,Washington State University,380000,1,Pullman Campus,27642,1,97,384,On-campus housing discipline
+2013,237011,Western Washington University,380200,1,Bellingham Campus,14950,0,180,317,On-campus housing discipline
+2013,237057,Whitman College,380300,1,Whitman College,1541,0,22,28,On-campus housing discipline
+2014,235316,Gonzaga University,377800,1,Main Campus,7352,1,60,735,On-campus housing discipline
+2014,236595,Seattle University,379000,1,Main Campus,7273,0,64,142,On-campus housing discipline
+2014,236948,University of Washington-Seattle Campus,379800,1,Main Campus,44784,0,145,593,On-campus housing discipline
+2014,236939,Washington State University,380000,1,Pullman Campus,28686,2,292,240,On-campus housing discipline
+2014,237011,Western Washington University,380200,1,Bellingham Campus,15060,0,225,320,On-campus housing discipline
+2014,237057,Whitman College,380300,1,Whitman College,1498,0,36,47,On-campus housing discipline
+2015,235316,Gonzaga University,377800,1,Main Campus,7491,1,50,727,On-campus housing discipline
+2015,236595,Seattle University,379000,1,Main Campus,7405,2,67,169,On-campus housing discipline
+2015,236948,University of Washington-Seattle Campus,379800,1,Main Campus,45408,0,123,578,On-campus housing discipline
+2015,236939,Washington State University,380000,1,Pullman Campus,29686,0,249,204,On-campus housing discipline
+2015,237011,Western Washington University,380200,1,Bellingham Campus,15332,1,178,263,On-campus housing discipline
+2015,237057,Whitman College,380300,1,Whitman College,1470,0,31,27,On-campus housing discipline
+2016,235316,Gonzaga University,377800,1,Main Campus,7567,0,80,758,On-campus housing discipline
+2016,236595,Seattle University,379000,1,Main Campus,7487,0,128,235,On-campus housing discipline
+2016,236948,University of Washington-Seattle Campus,379800,1,Main Campus,45591,0,73,371,On-campus housing discipline
+2016,236939,Washington State University,380000,1,Pullman Campus,30142,0,180,345,On-campus housing discipline
+2016,237011,Western Washington University,380200,1,Bellingham Campus,15574,0,194,329,On-campus housing discipline
+2016,237057,Whitman College,380300,1,Whitman College,1493,0,44,24,On-campus housing discipline
+2017,235316,Gonzaga University,377800,1,Main Campus,7506,0,114,610,On-campus housing discipline
+2017,236595,Seattle University,379000,1,Main Campus,7278,0,169,270,On-campus housing discipline
+2017,236948,University of Washington-Seattle Campus,379800,1,Main Campus,46166,0,99,406,On-campus housing discipline
+2017,236939,Washington State University,380000,1,Pullman Campus,30614,0,259,164,On-campus housing discipline
+2017,237011,Western Washington University,380200,1,Bellingham Campus,15915,0,213,400,On-campus housing discipline
+2017,237057,Whitman College,380300,1,Whitman College,1510,0,48,120,On-campus housing discipline
+2018,235316,Gonzaga University,377800,1,Main Campus,7563,0,80,483,On-campus housing discipline
+2018,236595,Seattle University,379000,1,Main Campus,7291,0,140,212,On-campus housing discipline
+2018,236948,University of Washington-Seattle Campus,379800,1,Main Campus,47400,0,307,644,On-campus housing discipline
+2018,236939,Washington State University,380000,1,Pullman Campus,31478,0,246,169,On-campus housing discipline
+2018,237011,Western Washington University,380200,1,Bellingham Campus,16121,0,161,270,On-campus housing discipline
+2018,237057,Whitman College,380300,1,Whitman College,1475,0,24,184,On-campus housing discipline
+2019,235316,Gonzaga University,377800,1,Main Campus,7537,0,76,719,On-campus housing discipline
+2019,236595,Seattle University,379000,1,Main Campus,7199,0,90,162,On-campus housing discipline
+2019,236948,University of Washington-Seattle Campus,379800,1,Main Campus,47576,1,145,498,On-campus housing discipline
+2019,236939,Washington State University,380000,1,Pullman Campus,31607,0,279,162,On-campus housing discipline
+2019,237011,Western Washington University,380200,1,Bellingham Campus,16142,0,147,244,On-campus housing discipline
+2019,237057,Whitman College,380300,1,Whitman College,1579,0,27,161,On-campus housing discipline
+2020,235316,Gonzaga University,377800,1,Main Campus,7295,0,72,375,On-campus housing discipline
+2020,236595,Seattle University,379000,1,Main Campus,7050,0,38,74,On-campus housing discipline
+2020,236948,University of Washington-Seattle Campus,379800,1,Main Campus,48149,0,48,221,On-campus housing discipline
+2020,236939,Washington State University,380000,1,Pullman Campus,31159,0,98,108,On-campus housing discipline
+2020,237011,Western Washington University,380200,1,Bellingham Campus,15197,1,102,104,On-campus housing discipline
+2020,237057,Whitman College,380300,1,Whitman College,1360,0,23,53,On-campus housing discipline
+2021,235316,Gonzaga University,377800,1,Main Campus,7381,1,91,512,On-campus housing discipline
+2021,236595,Seattle University,379000,1,Main Campus,7268,1,26,55,On-campus housing discipline
+2021,236948,University of Washington-Seattle Campus,379800,1,Main Campus,52434,0,41,126,On-campus housing discipline
+2021,236939,Washington State University,380000,1,Pullman Campus,29843,0,51,256,On-campus housing discipline
+2021,237011,Western Washington University,380200,1,Bellingham Campus,15125,0,78,140,On-campus housing discipline
+2021,237057,Whitman College,380300,1,Whitman College,1559,0,7,79,On-campus housing discipline
+2022,235316,Gonzaga University,377800,1,Main Campus,7253,0,35,414,On-campus housing discipline
+2022,236595,Seattle University,379000,1,Main Campus,7121,3,49,109,On-campus housing discipline
+2022,236948,University of Washington-Seattle Campus,379800,1,Main Campus,52319,0,44,102,On-campus housing discipline
+2022,236939,Washington State University,380000,1,Pullman Campus,27539,0,21,163,On-campus housing discipline
+2022,237011,Western Washington University,380200,1,Bellingham Campus,14747,0,96,224,On-campus housing discipline
+2022,237057,Whitman College,380300,1,Whitman College,1493,0,5,89,On-campus housing discipline
