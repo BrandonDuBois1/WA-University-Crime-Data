@@ -44,9 +44,14 @@ This repository contains 4 CSV files:
 The data files are provided by the US Department of Education via their Campus Safety and Security annual reporting.  
 
 ## Visualizations
+
+# 1: Arrests (per-capita) by University and Location
 This graph shows the arrests per-capita at each of the universities.  It is broken out by location of arrest.
 ![Image](https://github.com/user-attachments/assets/78bfb54a-b444-4495-9fbb-36a4371f2029)
 
+
+# 2 Criminal Offenses by University Over Time
+This graph shows the number of criminal offenses per-capita over time at each university and compares them with one another.
 ![Image](https://github.com/user-attachments/assets/9894952c-26f4-4931-9b06-8327758be7e0)
 
 ![Image](https://github.com/user-attachments/assets/61467b4f-21b7-4bb5-9644-410567179dac)
