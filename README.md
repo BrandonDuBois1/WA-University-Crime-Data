@@ -61,12 +61,15 @@ This graph shows the number of overall disciplinary actions administered to stud
 
 
 ## 4: Total # of Disciplinary Actions for Drugs and Alcohol by University
+Shows the raw number of disciplinary actions reported by universities for drugs and alcohol.
 ![Image](https://github.com/user-attachments/assets/9d8ec6b1-6e2d-4d2d-b821-73f005137194)
 
 
-## 5:
+## 5: Per-Capita Disciplinary Actions or Intoxications by University
+
 ![Image](https://github.com/user-attachments/assets/abecec88-c8cc-4276-a866-5cdce70f10ba)
 
 
-## 6:
+## 6: General Trend of All Incidents Over Time
+Compilation of all incidents covered in this malloy notebook.  Combines data from all four CSVs.
 ![Image](https://github.com/user-attachments/assets/95f1c1fa-3ddf-4520-8c4d-ce8433b9f7d3)
