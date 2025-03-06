@@ -20,15 +20,15 @@ All in all, I think this was an extremely interesting data set.  It showed us th
  Additionally, we can see how Gonzaga continues to issue disciplinary action to students at far higher rates than other universities.  Further, we can clearly see how crime at universities has changed over time and how reporting on violent acts against women has changed significantly with changes in the social climate.  I believe there is much more than can be gleaned from this data, and urge you to take a look through it and see which insights you can find!
 
 
-## Directions on How to Run it Yourself. 
-1.  **Click** on this link [here](https://github.com/BrandonDuBois1/Malloy-TSA) 
+# Directions on How to Run it Yourself. 
+1.  **Click** on this link [here](https://github.com/BrandonDuBois1/WA-University-Crime-Data) 
 2.   **Click** on the file that ends with '.malloyNB'.
 3.   **Type** the period key (" . "). 
 4.   **Click** the Run All button on the top of the page. 
 5. All information will be loaded and you may look at the whole analysis.
 
 
-## Code
+# Code
 
 This repository contains one Malloy code file:
 - [`WA_university_crime.malloynb`], this file performs the analysis on the TSA data.
@@ -39,7 +39,7 @@ This repository contains 4 CSV files:
 - [`disciplinary_actions.csv`], contains data of disciplinary actions reported from each of the analyzed schools.
 - [`vaw.csv`], contains data regarding violence against women reported from each of the analyzed schools.
 
-## Licensing 
+# Licensing 
 
 The data files are provided by the US Department of Education via their Campus Safety and Security annual reporting.  
 
@@ -59,8 +59,14 @@ This graph shows the number of criminal offenses per-capita over time at each un
 This graph shows the number of overall disciplinary actions administered to students over time per capita
 ![Image](https://github.com/user-attachments/assets/61467b4f-21b7-4bb5-9644-410567179dac)
 
+
+## 4: Total # of Disciplinary Actions for Drugs and Alcohol by University
 ![Image](https://github.com/user-attachments/assets/9d8ec6b1-6e2d-4d2d-b821-73f005137194)
 
+
+## 5:
 ![Image](https://github.com/user-attachments/assets/abecec88-c8cc-4276-a866-5cdce70f10ba)
 
+
+## 6:
 ![Image](https://github.com/user-attachments/assets/95f1c1fa-3ddf-4520-8c4d-ce8433b9f7d3)
