@@ -1,4 +1,4 @@
-# WA-University-Crime-Data
+# Washington State University Crime Data
 
 This repository contains data from the US Department of Education campus safety and security website.  It covers a variety of different crime data for college campuses nationwide.  For purposes of analysis, I pulled data for six major universities in Washington State - University of Washington, Washington State University, Western Washington University, Gonzaga University, Seattle University, and Whitman University.  
 
