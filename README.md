@@ -31,3 +31,13 @@ The data files are provided by the Data Liberation Project and come directly fro
 
 ## Visualizations
 ![Image](https://github.com/user-attachments/assets/78bfb54a-b444-4495-9fbb-36a4371f2029)
+
+![Image](https://github.com/user-attachments/assets/9894952c-26f4-4931-9b06-8327758be7e0)
+
+![Image](https://github.com/user-attachments/assets/61467b4f-21b7-4bb5-9644-410567179dac)
+
+![Image](https://github.com/user-attachments/assets/9d8ec6b1-6e2d-4d2d-b821-73f005137194)
+
+![Image](https://github.com/user-attachments/assets/abecec88-c8cc-4276-a866-5cdce70f10ba)
+
+![Image](https://github.com/user-attachments/assets/95f1c1fa-3ddf-4520-8c4d-ce8433b9f7d3)
