@@ -65,8 +65,8 @@ Shows the raw number of disciplinary actions reported by universities for drugs 
 ![Image](https://github.com/user-attachments/assets/9d8ec6b1-6e2d-4d2d-b821-73f005137194)
 
 
-## 5: Per-Capita Disciplinary Actions or Intoxications by University
-
+## 5: Per-Capita Disciplinary Actions for Intoxications by University, Compared with Rape Rates
+Shows the relationship between rates of intoxication discipline and rates of rape.  Does not appear to be a relationship.
 ![Image](https://github.com/user-attachments/assets/abecec88-c8cc-4276-a866-5cdce70f10ba)
 
 
